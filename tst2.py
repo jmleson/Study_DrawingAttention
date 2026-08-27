@@ -17,7 +17,7 @@ df["TTU"] = df["TTU"].astype(float)
 print(f"✅ Daten geladen: {df.shape[0]} Zeilen, {df['id'].nunique()} Tasks, {df['group'].nunique()} Gruppen")
 
 # DOU-Prüfung
-print("\n📊 DOU-Werte: Anzahl der Werte, die nicht 1.0 sind")
+print("\nDOU-Werte: Anzahl der Werte, die nicht 1.0 sind")
 df_notone = df[df["DOU"] != 1.0]
 print(f"❗ Es gibt nur {df_notone.shape[0]} von {df.shape[0]} DOU-Werten, die nicht 1.0 sind.")
 print(f"→ Das sind {100 * (1 - df_notone.shape[0] / df.shape[0]):.1f}% = 1.0")
@@ -32,9 +32,9 @@ for task_id in range(1, 18):
     if df_task.groupby("group").size().min() < 2:
         continue
 
-    df_task["TTU_log"] = np.log(df_task["TTU"] + 1)
+    df_task["TTU_log"] = np.log(df_task["TTU"])
 
-    # ANOVA mit log(TTU + 1)
+    # ANOVA mit log(TTU)
     anova_result = pg.anova(data=df_task, dv="TTU_log", between="group", detailed=True)
     p_anova = anova_result["p_unc"].iloc[0]
     anova_sig = "Significant" if p_anova < alpha else "Not significant"
@@ -45,7 +45,8 @@ for task_id in range(1, 18):
     kruskal_sig = "Significant" if p_kruskal < alpha else "Not significant"
 
     # Statistiken
-    group_stats = df_task.groupby("group")["TTU"].agg(["median", "std", "count"]).round(3)
+    group_stats = df_task.groupby("group")["TTU"].agg(["mean", "median", "std", "count"]).round(3)
+    mean_orig = group_stats["mean"].to_dict()
     median_orig = group_stats["median"].to_dict()
     std_orig = group_stats["std"].to_dict()
 
@@ -57,12 +58,14 @@ for task_id in range(1, 18):
         "anova_sig": anova_sig,
         "kruskal_sig": kruskal_sig,
         "median_TTU": median_orig,
+        "mean_TTU": mean_orig,
         "std_TTU": std_orig
     })
 
     print(f"\n🔍 Task {task_id:2d}:")
     print(f"   → ANOVA (log): p = {p_anova:.4f} ({anova_sig})")
     print(f"   → Kruskal-Wallis: p = {p_kruskal:.4f} ({kruskal_sig})")
+    print(f"   → Mean (TTU): {mean_orig}")
     print(f"   → Mediane (TTU): {median_orig}")
     print(f"   → Std-Abw. (TTU): {std_orig}")
 
