@@ -41,4 +41,4 @@ DIFFERENCES IN DOU, ON (included tasks = 14.0):
 DIFFERENCES IN DOU, OFF (included tasks = 3.0):
 	→ No significant difference (p = 0.4444, eta = 0.3333))
 DIFFERENCES IN DOU, CROSS (included tasks = 4.0):
-	→ No significant difference (p = 1, eta = 0))
+	→ No significant difference (p = 1, eta = -0.6667))

@@ -23,11 +23,12 @@ def between_subjects_anova(df, potential_difference_determining_column: str, val
 
     # Extrahiere p-Wert und Partial Eta-Squared
     p_val = aov_table["PR(>F)"].iloc[0]
-    partial_eta_squared = 0.1#TODO
+    partial_eta_squared = "??"# TODO
+    # partial_eta_squared = f"{partial_eta_squared:.4g}"
 
     # Erstelle Ergebnis-String
     if p_val < alpha:
-        result = f"→ Significant difference between groups (p = {p_val:.4g}, eta = {partial_eta_squared:.4g})"
+        result = f"→ Significant difference between groups (p = {p_val:.4g}, eta = {partial_eta_squared})"
         # Medians der Gruppen
         medians = df.groupby(potential_difference_determining_column)[value_col].median()
         sorted_medians = medians.sort_index()  # sortiert nach Gruppennamen
@@ -39,7 +40,7 @@ def between_subjects_anova(df, potential_difference_determining_column: str, val
                 precision = 3
             result += f"\n\t\t  - Task {group_name} → {median_val:.{precision}f}"
     else:
-        result = f"→ No significant difference (p = {p_val:.4g}, eta = {partial_eta_squared:.4g})"
+        result = f"→ No significant difference (p = {p_val:.4g}, eta = {partial_eta_squared})"
 
     if print_info:
         print("\n\t=== Between-Subjects ANOVA ===")

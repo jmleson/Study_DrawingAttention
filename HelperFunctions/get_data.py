@@ -10,6 +10,7 @@ def get_data(task_ids: list[int], participants: list[Participant]):
             task = p.get_participant_task(task_id=task_id)
             if task is not None:
                 data.append({
+                    "participant": p.id,
                     "id": f"task_{task.task_number}",
                     "group": p.studygroup.value,
                     "TTU": task.time_to_understand,
@@ -26,3 +27,5 @@ def get_data(task_ids: list[int], participants: list[Participant]):
                 raise Exception(f"missing task {p.id}_{task_id}")
     df = pd.DataFrame(data)
     return df
+
+

@@ -1,6 +1,6 @@
 
 DIFFERENCES IN [1mTTU PER TASK[0m:
-	→ Significant difference between groups (p = 0.03145, eta = 0.1)
+	→ Significant difference between groups (p = 0.03145, eta = ??)
 		[1m→ Median Values of all Groups:[0m
 		  - Task 1 → 26
 		  - Task 2 → 18
@@ -19,4 +19,4 @@ DIFFERENCES IN [1mTTU PER TASK[0m:
 		  - Task 15 → 91
 		  - Task 16 → 46
 		  - Task 17 → 48
-	Compact-Letter-Display:  {'Task 1': 'bdef', 'Task 2': 'f', 'Task 3': 'ef', 'Task 4': 'bef', 'Task 5': 'bcdef', 'Task 6': 'abcdef', 'Task 7': 'gh', 'Task 8': 'abcdef', 'Task 9': 'acg', 'Task 10': 'abcdeg', 'Task 11': 'bcde', 'Task 12': 'abcdg', 'Task 13': 'abcdeg', 'Task 14': 'agh', 'Task 15': 'h', 'Task 16': 'acdgh', 'Task 17': 'acdgh'}
+	Compact-Letter-Display:  {'Task 1': 'aefg', 'Task 2': 'a', 'Task 3': 'ag', 'Task 4': 'afg', 'Task 5': 'adefg', 'Task 6': 'acdefg', 'Task 7': 'bh', 'Task 8': 'acdefg', 'Task 9': 'bcd', 'Task 10': 'bcdefg', 'Task 11': 'defg', 'Task 12': 'bcdef', 'Task 13': 'bcdefg', 'Task 14': 'bch', 'Task 15': 'h', 'Task 16': 'bcdeh', 'Task 17': 'bcdeh'}

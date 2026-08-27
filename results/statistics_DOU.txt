@@ -1,0 +1,3 @@
+DIFFERENCES IN [1mDOU[0m:
+	→ No significant difference (p = 0.4484, eta = 0.04889))
+	Compact-Letter-Display: {'Dynamic sketch construction': 'a', 'Formula construction': 'a', 'Static sketch construction': 'a'}

@@ -1,0 +1,7 @@
+DIFFERENCES IN [1mTTU[0m:
+	→ Significant difference in TTU (p = 0.006786, eta = 0.2681))
+		→ Median Values of all Groups:
+		  - Dynamic sketch construction → 39 s
+		  - Formula construction → 39 s
+		  - Static sketch construction → 29 s
+	Compact-Letter-Display: {'Dynamic sketch construction': 'a', 'Formula construction': 'a', 'Static sketch construction': 'b'}

@@ -23,7 +23,7 @@ DIFFERENCES IN DOU for group CELL-RANGE
 	→ No significant difference (p = nan, eta = nan))
 DIFFERENCES IN DOU for group BACK-FORWARD
 	(Ref. direction) (included tasks = 2.0:
-	→ No significant difference (p = 1, eta = -0.2083))
+	→ No significant difference (p = 0.9583, eta = 0.04167))
 DIFFERENCES IN DOU for group OFF-ON
 	(Ref. dispersion) (included tasks = 1.0:
 	→ No significant difference (p = nan, eta = nan))
