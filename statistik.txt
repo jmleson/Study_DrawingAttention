@@ -1,0 +1,99 @@
+Answer in english. 
+
+Using spreadsheet operations as a testbed, we conducted an exploratory between-subject study with 21 participants who interpreted identical computations represented as formulas, static sketches, or animated sketch videos.
+Participants explained their understanding of each representation, allowing us to measure comprehension (DOU) and time to interpretation (TTU). 
+
+Now I want a statistical evaluation of this study to find out whether there are differnces in the groups: 'Dynamic sketch construction', 'Formula construction', 'Static sketch construction'. The results should include: 
+- always effect sizes 
+- aussage, ob signifikante unterschiede zw. gruppen 'Dynamic sketch construction', 'Formula construction', 'Static sketch construction'
+- if possible by a compact letter design
+Please give me the full code in one python file, so I can check whether it compiles. 
+
+Study design: 
+- tasks and their descriptors = within subject
+- group = between subjects
+- TTU: measured metric value, > 0 
+- DOU: ordinal 
+
+Bereits bekannt: 
+- DOU-Werte sind in nur 110 von 357 Fällen nicht exakt 1.0, das sind 69.2%.
+- TTU-Werte können je Task in separat auf Unterschiede in den Gruppen S/V/D getestet werden: 
+"between subjects" Anova (bzgl. group) ergibt für keinen Task einen signifikanten Unterschied.
+Wenn man keine ANOVA mit ihren ausreißeranfälligen Mittelwerten, sondern einen Kruskal-Wallis-Test anwendet, findet man wiederum keine statistischen Unterschiede in den TTUs je Gruppe.
+- Weder DOU noch TTU sind normalverteilt. 
+
+Ich habe nun folgende Auswertungs-ideen: 
+1) über alle Daten: Kruskal-Wallis mit within = task, between = group -> find significant differences between groups per task 
+2) per task: aus Datensatz wird nur je ein einzelner Task herausgefiltert und individuell untersucht per Kruskal-Wallis -> nur noch between-subjects-Aspekt der group vorhanden -> Suche nach significant differences between groups for this task 
+- evaluation per task-groups: Each task is defined by similar operations included in him (defined in STRUCTURALTASKASPECT). Therefore, it seems reasonable to group all task that for instance include the operation COMP. For this group, I want to do an analysis to find out, whether COMP-tasks (or others) show significant differences between the participant groups. Use Kruskal-Wallis and if needed later on a Holm-Correction. 
+	3) über alle Daten (df gesamt)
+	4) per gruppe von tasks, die ein gewisses Keyword trägt -> df filtern vor statistischem Test (als wäre die Studie nur mit den entsprechenden Tasks) 
+
+
+Information about the data access:
+This python coded gives the study as a dataframe: 
+from Study import participants
+df = get_data(participants=participants, task_ids=[i for i in range(1, 18)])
+# saving per: df.to_csv("study_data.csv", sep=";", index=False)
+# possibly use: df["id"] = df["id"].apply(lambda x: x.replace("task_", "")).astype(int)
+
+The get_data-function can be imported via: "from HelperFunctions.get_data import get_data".
+You will find the dataframe, saved as study_data.csv, in the attachements.
+
+Other important groups of the study are: 
+
+class STUDYGROUP(Enum):
+    S = "Static sketch construction"
+    F = "Formula construction"
+    V = "Dynamic sketch construction"
+
+
+class STRUCTURALTASKASPECT(Enum):
+    # see Table 3.3 ("Structural aspects of tasks used in the study")
+    COMP = "Comp (Operation type)"
+    COND = "Cond (Operation type)"
+    LOOK = "Look (Operation type)"
+
+    CELL = "Cell (Operand type)"
+    RANGE = "Range (Operand type)"
+    LIT = "Lit (Operand type)"
+    FUNC = "Func (Operand type)"
+
+    VAL = "Val (Result type)"
+    BATCH = "Batch (Result type)"
+    LIST = "List (Result type)"
+
+    BACK = "Back (Ref. direction)"
+    FORWARD = "Forward (Ref. direction)"
+
+    ON = "On (Ref. dispersion)"
+    OFF = "Off (Ref. dispersion)"
+    CROSS = "Cross (Ref. dispersion)"
+
+    # LEN = "Len (Expression Size)"
+    # DEPTH = "Depth (Expression Size)"
+
+    # yellow marked values (more important):
+    iCOMP = "Comp (Operation type)"
+    iCOND = "Cond (Operation type)"
+    iLOOK = "Look (Operation type)"
+
+    iCELL = "Cell (Operand type)"
+    iRANGE = "Range (Operand type)"
+    iLIT = "Lit (Operand type)"
+    iFUNC = "Func (Operand type)"
+
+    iVAL = "Val (Result type)"
+    iBATCH = "Batch (Result type)"
+    iLIST = "List (Result type)"
+
+    iBACK = "Back (Ref. direction)"
+    iFORWARD = "Forward (Ref. direction)"
+
+    iON = "On (Ref. dispersion)"
+    iOFF = "Off (Ref. dispersion)"
+    iCROSS = "Cross (Ref. dispersion)"
+
+
+
+Give me two solutions. One in a basic python script. and one in a jupyter notebook format, expalining all choices on the way. 

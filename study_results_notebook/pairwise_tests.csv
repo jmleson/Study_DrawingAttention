@@ -1,0 +1,199 @@
+stratum,outcome,group1,group2,U,p_raw,rank_biserial_g1_vs_g2,median_difference_g1_minus_g2,p_holm,significant_holm
+Overall participant median,TTU,Dynamic sketch construction,Formula construction,25.5,0.9489475069433909,0.04081632653061229,1.0,0.9489475069433909,False
+Overall participant median,TTU,Dynamic sketch construction,Static sketch construction,39.0,0.07237218762491178,0.5918367346938775,7.0,0.21711656287473535,False
+Overall participant median,TTU,Formula construction,Static sketch construction,33.0,0.31759906759906764,0.346938775510204,6.0,0.6351981351981353,False
+Overall participant median,DOU,Dynamic sketch construction,Formula construction,28.0,0.39136593830755195,0.1428571428571428,0.0,1.0,False
+Overall participant median,DOU,Dynamic sketch construction,Static sketch construction,28.0,0.39136593830755195,0.1428571428571428,0.0,1.0,False
+Overall participant median,DOU,Formula construction,Static sketch construction,25.0,1.0,0.020408163265306145,0.0,1.0,False
+Task 1,TTU,Dynamic sketch construction,Formula construction,31.5,0.40468052290107226,0.2857142857142858,3.0,1.0,False
+Task 1,TTU,Dynamic sketch construction,Static sketch construction,32.5,0.33469680227104925,0.3265306122448979,2.0,1.0,False
+Task 1,TTU,Formula construction,Static sketch construction,29.0,0.6084912612259614,0.18367346938775508,-1.0,1.0,False
+Task 1,DOU,Dynamic sketch construction,Formula construction,31.5,0.17168169026382063,0.2857142857142858,0.0,0.34336338052764126,False
+Task 1,DOU,Dynamic sketch construction,Static sketch construction,24.5,,0.0,0.0,,False
+Task 1,DOU,Formula construction,Static sketch construction,17.5,0.17168169026382063,-0.2857142857142857,0.0,0.34336338052764126,False
+Task 2,TTU,Dynamic sketch construction,Formula construction,34.0,0.24858717562880528,0.3877551020408163,5.0,0.35462655350327243,False
+Task 2,TTU,Dynamic sketch construction,Static sketch construction,41.0,0.04024958461556618,0.6734693877551021,7.0,0.12074875384669853,False
+Task 2,TTU,Formula construction,Static sketch construction,35.5,0.17731327675163622,0.44897959183673475,2.0,0.35462655350327243,False
+Task 2,DOU,Dynamic sketch construction,Formula construction,21.0,0.39136593830755195,-0.1428571428571429,0.0,0.7827318766151039,False
+Task 2,DOU,Dynamic sketch construction,Static sketch construction,21.0,0.39136593830755195,-0.1428571428571429,0.0,0.7827318766151039,False
+Task 2,DOU,Formula construction,Static sketch construction,24.5,,0.0,0.0,,False
+Task 3,TTU,Dynamic sketch construction,Formula construction,29.0,0.6084912612259614,0.18367346938775508,2.0,1.0,False
+Task 3,TTU,Dynamic sketch construction,Static sketch construction,43.0,0.020880820818700335,0.7551020408163265,10.0,0.062642462456101,False
+Task 3,TTU,Formula construction,Static sketch construction,29.5,0.5627120141494872,0.20408163265306123,8.0,1.0,False
+Task 3,DOU,Dynamic sketch construction,Formula construction,28.0,0.39136593830755195,0.1428571428571428,0.0,0.7827318766151039,False
+Task 3,DOU,Dynamic sketch construction,Static sketch construction,24.5,,0.0,0.0,,False
+Task 3,DOU,Formula construction,Static sketch construction,21.0,0.39136593830755195,-0.1428571428571429,0.0,0.7827318766151039,False
+Task 4,TTU,Dynamic sketch construction,Formula construction,21.0,0.6986272044013412,-0.1428571428571429,-6.0,0.6986272044013412,False
+Task 4,TTU,Dynamic sketch construction,Static sketch construction,38.5,0.08350854995477179,0.5714285714285714,11.0,0.25052564986431536,False
+Task 4,TTU,Formula construction,Static sketch construction,36.5,0.14084374335118588,0.48979591836734704,17.0,0.28168748670237176,False
+Task 4,DOU,Dynamic sketch construction,Formula construction,24.5,,0.0,0.0,,False
+Task 4,DOU,Dynamic sketch construction,Static sketch construction,24.5,,0.0,0.0,,False
+Task 4,DOU,Formula construction,Static sketch construction,24.5,,0.0,0.0,,False
+Task 5,TTU,Dynamic sketch construction,Formula construction,27.0,0.8047785547785549,0.1020408163265305,-4.0,0.8047785547785549,False
+Task 5,TTU,Dynamic sketch construction,Static sketch construction,39.0,0.07332163858419322,0.5918367346938775,11.0,0.21996491575257965,False
+Task 5,TTU,Formula construction,Static sketch construction,34.0,0.2496320263282753,0.3877551020408163,15.0,0.4992640526565506,False
+Task 5,DOU,Dynamic sketch construction,Formula construction,25.0,1.0,0.020408163265306145,0.0,1.0,False
+Task 5,DOU,Dynamic sketch construction,Static sketch construction,29.0,0.4760334929424296,0.18367346938775508,0.0,1.0,False
+Task 5,DOU,Formula construction,Static sketch construction,28.0,0.5905893288544701,0.1428571428571428,0.0,1.0,False
+Task 6,TTU,Dynamic sketch construction,Formula construction,19.5,0.5648708373596065,-0.20408163265306123,-9.0,0.9114219114219115,False
+Task 6,TTU,Dynamic sketch construction,Static sketch construction,31.0,0.45571095571095577,0.26530612244897966,6.0,0.9114219114219115,False
+Task 6,TTU,Formula construction,Static sketch construction,33.5,0.2769105941629161,0.36734693877551017,15.0,0.8307317824887482,False
+Task 6,DOU,Dynamic sketch construction,Formula construction,10.5,0.04471551737434607,-0.5714285714285714,-0.19999999999999996,0.13414655212303822,False
+Task 6,DOU,Dynamic sketch construction,Static sketch construction,21.0,0.5905893288544701,-0.1428571428571429,0.0,0.5905893288544701,False
+Task 6,DOU,Formula construction,Static sketch construction,35.0,0.14111444836508275,0.4285714285714286,0.19999999999999996,0.2822288967301655,False
+Task 7,TTU,Dynamic sketch construction,Formula construction,18.0,0.4427868227659776,-0.26530612244897955,-23.0,0.8855736455319552,False
+Task 7,TTU,Dynamic sketch construction,Static sketch construction,14.0,0.20862470862470864,-0.4285714285714286,-20.0,0.6258741258741259,False
+Task 7,TTU,Formula construction,Static sketch construction,22.0,0.7980806294582996,-0.10204081632653061,3.0,0.8855736455319552,False
+Task 7,DOU,Dynamic sketch construction,Formula construction,13.5,0.1314751249965938,-0.44897959183673475,0.0,0.32387618520265377,False
+Task 7,DOU,Dynamic sketch construction,Static sketch construction,32.0,0.34841347071615314,0.30612244897959173,0.2222222222222222,0.34841347071615314,False
+Task 7,DOU,Formula construction,Static sketch construction,37.0,0.1079587284008846,0.510204081632653,0.2222222222222222,0.32387618520265377,False
+Task 8,TTU,Dynamic sketch construction,Formula construction,22.5,0.8478409541795124,-0.08163265306122447,-8.0,1.0,False
+Task 8,TTU,Dynamic sketch construction,Static sketch construction,24.0,1.0,-0.020408163265306145,4.0,1.0,False
+Task 8,TTU,Formula construction,Static sketch construction,26.0,0.9015151515151516,0.061224489795918435,12.0,1.0,False
+Task 8,DOU,Dynamic sketch construction,Formula construction,22.0,0.7215797250891103,-0.10204081632653061,0.0,0.7215797250891103,False
+Task 8,DOU,Dynamic sketch construction,Static sketch construction,41.5,0.023827528697723668,0.6938775510204083,0.1428571428571429,0.071482586093171,False
+Task 8,DOU,Formula construction,Static sketch construction,39.0,0.05364263624010682,0.5918367346938775,0.1428571428571429,0.10728527248021363,False
+Task 9,TTU,Dynamic sketch construction,Formula construction,20.5,0.6543654987424038,-0.16326530612244894,-7.0,1.0,False
+Task 9,TTU,Dynamic sketch construction,Static sketch construction,29.0,0.6088863050232023,0.18367346938775508,11.0,1.0,False
+Task 9,TTU,Formula construction,Static sketch construction,29.0,0.6088863050232023,0.18367346938775508,18.0,1.0,False
+Task 9,DOU,Dynamic sketch construction,Formula construction,31.0,0.36872960577533465,0.26530612244897966,0.0,1.0,False
+Task 9,DOU,Dynamic sketch construction,Static sketch construction,25.0,1.0,0.020408163265306145,0.0,1.0,False
+Task 9,DOU,Formula construction,Static sketch construction,18.0,0.36872960577533465,-0.26530612244897955,0.0,1.0,False
+Task 10,TTU,Dynamic sketch construction,Formula construction,24.0,1.0,-0.020408163265306145,1.0,1.0,False
+Task 10,TTU,Dynamic sketch construction,Static sketch construction,25.0,1.0,0.020408163265306145,10.0,1.0,False
+Task 10,TTU,Formula construction,Static sketch construction,25.0,1.0,0.020408163265306145,9.0,1.0,False
+Task 10,DOU,Dynamic sketch construction,Formula construction,31.0,0.40090295209201554,0.26530612244897966,0.125,0.8018059041840311,False
+Task 10,DOU,Dynamic sketch construction,Static sketch construction,34.5,0.18696496360461135,0.40816326530612246,0.125,0.560894890813834,False
+Task 10,DOU,Formula construction,Static sketch construction,27.0,0.7890202797280037,0.1020408163265305,0.0,0.8018059041840311,False
+Task 11,TTU,Dynamic sketch construction,Formula construction,35.5,0.17923391309740488,0.44897959183673475,8.0,0.5377017392922147,False
+Task 11,TTU,Dynamic sketch construction,Static sketch construction,25.5,0.9489475069433909,0.04081632653061229,5.0,0.9489475069433909,False
+Task 11,TTU,Formula construction,Static sketch construction,18.0,0.4412736981699784,-0.26530612244897955,-3.0,0.8825473963399568,False
+Task 11,DOU,Dynamic sketch construction,Formula construction,24.5,,0.0,0.0,,False
+Task 11,DOU,Dynamic sketch construction,Static sketch construction,24.5,,0.0,0.0,,False
+Task 11,DOU,Formula construction,Static sketch construction,24.5,,0.0,0.0,,False
+Task 12,TTU,Dynamic sketch construction,Formula construction,18.0,0.45571095571095577,-0.26530612244897955,-1.0,0.45571095571095577,False
+Task 12,TTU,Dynamic sketch construction,Static sketch construction,37.0,0.124785918988563,0.510204081632653,18.0,0.249571837977126,False
+Task 12,TTU,Formula construction,Static sketch construction,39.5,0.06333570382557177,0.6122448979591837,19.0,0.1900071114767153,False
+Task 12,DOU,Dynamic sketch construction,Formula construction,24.5,,0.0,0.0,,False
+Task 12,DOU,Dynamic sketch construction,Static sketch construction,24.5,,0.0,0.0,,False
+Task 12,DOU,Formula construction,Static sketch construction,24.5,,0.0,0.0,,False
+Task 13,TTU,Dynamic sketch construction,Formula construction,34.0,0.24911008295664594,0.3877551020408163,9.0,0.7473302488699378,False
+Task 13,TTU,Dynamic sketch construction,Static sketch construction,25.0,1.0,0.020408163265306145,-2.0,1.0,False
+Task 13,TTU,Formula construction,Static sketch construction,16.0,0.31759906759906764,-0.34693877551020413,-11.0,0.7473302488699378,False
+Task 13,DOU,Dynamic sketch construction,Formula construction,28.0,0.39136593830755195,0.1428571428571428,0.0,1.0,False
+Task 13,DOU,Dynamic sketch construction,Static sketch construction,28.0,0.39136593830755195,0.1428571428571428,0.0,1.0,False
+Task 13,DOU,Formula construction,Static sketch construction,24.5,1.0,0.0,0.0,1.0,False
+Task 14,TTU,Dynamic sketch construction,Formula construction,7.0,0.02912490312939211,-0.7142857142857143,-49.0,0.08737470938817632,False
+Task 14,TTU,Dynamic sketch construction,Static sketch construction,19.5,0.5644416167582427,-0.20408163265306123,-11.0,0.5644416167582427,False
+Task 14,TTU,Formula construction,Static sketch construction,34.0,0.25932400932400934,0.3877551020408163,38.0,0.5186480186480187,False
+Task 14,DOU,Dynamic sketch construction,Formula construction,35.0,0.0754126204649279,0.4285714285714286,0.0,0.2262378613947837,False
+Task 14,DOU,Dynamic sketch construction,Static sketch construction,28.0,0.39136593830755195,0.1428571428571428,0.0,0.4008131864449094,False
+Task 14,DOU,Formula construction,Static sketch construction,16.0,0.2004065932224547,-0.34693877551020413,0.0,0.4008131864449094,False
+Task 15,TTU,Dynamic sketch construction,Formula construction,34.5,0.2242892124823661,0.40816326530612246,7.0,0.6728676374470983,False
+Task 15,TTU,Dynamic sketch construction,Static sketch construction,33.0,0.31759906759906764,0.346938775510204,22.0,0.6728676374470983,False
+Task 15,TTU,Formula construction,Static sketch construction,29.5,0.5648708373596065,0.20408163265306123,15.0,0.6728676374470983,False
+Task 15,DOU,Dynamic sketch construction,Formula construction,49.0,0.001027148423571817,1.0,0.4545454545454546,0.0030814452707154513,True
+Task 15,DOU,Dynamic sketch construction,Static sketch construction,31.5,0.17295491798842066,0.2857142857142858,0.0,0.17295491798842066,False
+Task 15,DOU,Formula construction,Static sketch construction,6.0,0.017987745642820296,-0.7551020408163265,-0.4545454545454546,0.03597549128564059,True
+Task 16,TTU,Dynamic sketch construction,Formula construction,27.0,0.8047785547785549,0.1020408163265305,19.0,0.8047785547785549,False
+Task 16,TTU,Dynamic sketch construction,Static sketch construction,41.0,0.03787878787878788,0.6734693877551021,33.0,0.11363636363636365,False
+Task 16,TTU,Formula construction,Static sketch construction,38.0,0.09731934731934733,0.5510204081632653,14.0,0.19463869463869465,False
+Task 16,DOU,Dynamic sketch construction,Formula construction,31.5,0.29483683301991437,0.2857142857142858,0.0,0.5896736660398287,False
+Task 16,DOU,Dynamic sketch construction,Static sketch construction,38.5,0.03014695228587335,0.5714285714285714,0.125,0.09044085685762004,False
+Task 16,DOU,Formula construction,Static sketch construction,32.5,0.30613874528466567,0.3265306122448979,0.125,0.5896736660398287,False
+Task 17,TTU,Dynamic sketch construction,Formula construction,28.0,0.7011653274181554,0.1428571428571428,17.0,1.0,False
+Task 17,TTU,Dynamic sketch construction,Static sketch construction,29.0,0.6088863050232023,0.18367346938775508,24.0,1.0,False
+Task 17,TTU,Formula construction,Static sketch construction,28.5,0.6543654987424038,0.16326530612244894,7.0,1.0,False
+Task 17,DOU,Dynamic sketch construction,Formula construction,27.0,0.7644681579414826,0.1020408163265305,0.0,1.0,False
+Task 17,DOU,Dynamic sketch construction,Static sketch construction,27.5,0.7092694932930664,0.12244897959183665,0.0,1.0,False
+Task 17,DOU,Formula construction,Static sketch construction,25.0,1.0,0.020408163265306145,0.0,1.0,False
+Aspect COMP,TTU,Dynamic sketch construction,Formula construction,22.5,0.8478409541795124,-0.08163265306122447,-2.0,0.8478409541795124,False
+Aspect COMP,TTU,Dynamic sketch construction,Static sketch construction,35.5,0.17923391309740488,0.44897959183673475,9.0,0.5377017392922147,False
+Aspect COMP,TTU,Formula construction,Static sketch construction,33.5,0.2769105941629161,0.36734693877551017,11.0,0.5538211883258322,False
+Aspect COMP,DOU,Dynamic sketch construction,Formula construction,24.5,,0.0,0.0,,False
+Aspect COMP,DOU,Dynamic sketch construction,Static sketch construction,24.5,,0.0,0.0,,False
+Aspect COMP,DOU,Formula construction,Static sketch construction,24.5,,0.0,0.0,,False
+Aspect COND,TTU,Dynamic sketch construction,Formula construction,32.0,0.3705670479246522,0.30612244897959173,5.0,1.0,False
+Aspect COND,TTU,Dynamic sketch construction,Static sketch construction,30.0,0.5224458272016163,0.22448979591836737,5.5,1.0,False
+Aspect COND,TTU,Formula construction,Static sketch construction,27.0,0.8047785547785549,0.1020408163265305,0.5,1.0,False
+Aspect COND,DOU,Dynamic sketch construction,Formula construction,35.5,0.1605806049379932,0.44897959183673475,0.0714285714285714,0.4817418148139796,False
+Aspect COND,DOU,Dynamic sketch construction,Static sketch construction,32.0,0.33337771717673503,0.30612244897959173,0.0,0.6667554343534701,False
+Aspect COND,DOU,Formula construction,Static sketch construction,20.0,0.6060956808952183,-0.18367346938775508,-0.0714285714285714,0.6667554343534701,False
+Aspect LOOK,TTU,Dynamic sketch construction,Formula construction,20.0,0.6200466200466201,-0.18367346938775508,-25.0,0.8114347219089031,False
+Aspect LOOK,TTU,Dynamic sketch construction,Static sketch construction,31.5,0.40571736095445154,0.2857142857142858,7.0,0.8114347219089031,False
+Aspect LOOK,TTU,Formula construction,Static sketch construction,34.0,0.25932400932400934,0.3877551020408163,32.0,0.777972027972028,False
+Aspect LOOK,DOU,Dynamic sketch construction,Formula construction,45.5,0.0036757096704734325,0.8571428571428572,0.125,0.011027129011420297,True
+Aspect LOOK,DOU,Dynamic sketch construction,Static sketch construction,31.5,0.17295491798842066,0.2857142857142858,0.0,0.17295491798842066,False
+Aspect LOOK,DOU,Formula construction,Static sketch construction,10.5,0.07224937887708652,-0.5714285714285714,-0.125,0.14449875775417304,False
+Aspect CELL,TTU,Dynamic sketch construction,Formula construction,25.0,1.0,0.020408163265306145,1.0,1.0,False
+Aspect CELL,TTU,Dynamic sketch construction,Static sketch construction,35.0,0.19835159640823374,0.4285714285714286,7.0,0.5950547892247012,False
+Aspect CELL,TTU,Formula construction,Static sketch construction,28.0,0.7008515617321673,0.1428571428571428,6.0,1.0,False
+Aspect CELL,DOU,Dynamic sketch construction,Formula construction,24.5,,0.0,0.0,,False
+Aspect CELL,DOU,Dynamic sketch construction,Static sketch construction,24.5,,0.0,0.0,,False
+Aspect CELL,DOU,Formula construction,Static sketch construction,24.5,,0.0,0.0,,False
+Aspect RANGE,TTU,Dynamic sketch construction,Formula construction,28.0,0.7008515617321673,0.1428571428571428,5.0,1.0,False
+Aspect RANGE,TTU,Dynamic sketch construction,Static sketch construction,29.0,0.6200466200466201,0.18367346938775508,4.0,1.0,False
+Aspect RANGE,TTU,Formula construction,Static sketch construction,29.0,0.6200466200466201,0.18367346938775508,-1.0,1.0,False
+Aspect RANGE,DOU,Dynamic sketch construction,Formula construction,27.5,0.7075934024225997,0.12244897959183665,0.0,1.0,False
+Aspect RANGE,DOU,Dynamic sketch construction,Static sketch construction,29.5,0.5021522070835622,0.20408163265306123,0.0,1.0,False
+Aspect RANGE,DOU,Formula construction,Static sketch construction,27.5,0.7228031593043929,0.12244897959183665,0.0,1.0,False
+Aspect LIT,TTU,Dynamic sketch construction,Formula construction,22.0,0.8047785547785549,-0.10204081632653061,1.0,1.0,False
+Aspect LIT,TTU,Dynamic sketch construction,Static sketch construction,23.0,0.9015151515151516,-0.061224489795918324,-8.0,1.0,False
+Aspect LIT,TTU,Formula construction,Static sketch construction,24.0,1.0,-0.020408163265306145,-9.0,1.0,False
+Aspect LIT,DOU,Dynamic sketch construction,Formula construction,40.0,0.033791977670669306,0.6326530612244898,0.16249999999999998,0.10137593301200792,False
+Aspect LIT,DOU,Dynamic sketch construction,Static sketch construction,36.0,0.09937281468038413,0.4693877551020409,0.0625,0.19874562936076826,False
+Aspect LIT,DOU,Formula construction,Static sketch construction,19.0,0.5130147385792142,-0.22448979591836737,-0.09999999999999998,0.5130147385792142,False
+Aspect FUNC,TTU,Dynamic sketch construction,Formula construction,30.0,0.534965034965035,0.22448979591836737,9.0,1.0,False
+Aspect FUNC,TTU,Dynamic sketch construction,Static sketch construction,29.0,0.6200466200466201,0.18367346938775508,2.0,1.0,False
+Aspect FUNC,TTU,Formula construction,Static sketch construction,27.5,0.7491276096399462,0.12244897959183665,-7.0,1.0,False
+Aspect FUNC,DOU,Dynamic sketch construction,Formula construction,27.0,0.7897609124855842,0.1020408163265305,-0.020202020202020332,1.0,False
+Aspect FUNC,DOU,Dynamic sketch construction,Static sketch construction,31.5,0.3907027220100261,0.2857142857142858,0.01388888888888884,1.0,False
+Aspect FUNC,DOU,Formula construction,Static sketch construction,28.0,0.6936888263665271,0.1428571428571428,0.03409090909090917,1.0,False
+Aspect VAL,TTU,Dynamic sketch construction,Formula construction,19.0,0.534965034965035,-0.22448979591836737,-3.5,0.777972027972028,False
+Aspect VAL,TTU,Dynamic sketch construction,Static sketch construction,32.5,0.3373725439387588,0.3265306122448979,9.5,0.777972027972028,False
+Aspect VAL,TTU,Formula construction,Static sketch construction,34.0,0.25932400932400934,0.3877551020408163,13.0,0.777972027972028,False
+Aspect VAL,DOU,Dynamic sketch construction,Formula construction,24.5,,0.0,0.0,,False
+Aspect VAL,DOU,Dynamic sketch construction,Static sketch construction,24.5,,0.0,0.0,,False
+Aspect VAL,DOU,Formula construction,Static sketch construction,24.5,,0.0,0.0,,False
+Aspect BATCH,TTU,Dynamic sketch construction,Formula construction,20.5,0.6543654987424038,-0.16326530612244894,-7.0,1.0,False
+Aspect BATCH,TTU,Dynamic sketch construction,Static sketch construction,29.0,0.6088863050232023,0.18367346938775508,11.0,1.0,False
+Aspect BATCH,TTU,Formula construction,Static sketch construction,29.0,0.6088863050232023,0.18367346938775508,18.0,1.0,False
+Aspect BATCH,DOU,Dynamic sketch construction,Formula construction,31.0,0.36872960577533465,0.26530612244897966,0.0,1.0,False
+Aspect BATCH,DOU,Dynamic sketch construction,Static sketch construction,25.0,1.0,0.020408163265306145,0.0,1.0,False
+Aspect BATCH,DOU,Formula construction,Static sketch construction,18.0,0.36872960577533465,-0.26530612244897955,0.0,1.0,False
+Aspect LIST,TTU,Dynamic sketch construction,Formula construction,34.0,0.2496320263282753,0.3877551020408163,7.0,0.4992640526565506,False
+Aspect LIST,TTU,Dynamic sketch construction,Static sketch construction,36.0,0.15940499314793333,0.4693877551020409,16.5,0.4782149794438,False
+Aspect LIST,TTU,Formula construction,Static sketch construction,30.5,0.4817206802748212,0.24489795918367352,9.5,0.4992640526565506,False
+Aspect LIST,DOU,Dynamic sketch construction,Formula construction,27.5,0.7326914443344676,0.12244897959183665,0.0625,1.0,False
+Aspect LIST,DOU,Dynamic sketch construction,Static sketch construction,34.0,0.21943598564443634,0.3877551020408163,0.125,0.658307956933309,False
+Aspect LIST,DOU,Formula construction,Static sketch construction,30.0,0.5173267024504302,0.22448979591836737,0.0625,1.0,False
+Aspect BACK,TTU,Dynamic sketch construction,Formula construction,20.0,0.6200466200466201,-0.18367346938775508,-1.5,0.6200466200466201,False
+Aspect BACK,TTU,Dynamic sketch construction,Static sketch construction,35.5,0.17923391309740488,0.44897959183673475,8.0,0.5377017392922147,False
+Aspect BACK,TTU,Formula construction,Static sketch construction,34.0,0.25932400932400934,0.3877551020408163,9.5,0.5377017392922147,False
+Aspect BACK,DOU,Dynamic sketch construction,Formula construction,24.5,,0.0,0.0,,False
+Aspect BACK,DOU,Dynamic sketch construction,Static sketch construction,28.0,0.39136593830755195,0.1428571428571428,0.0,0.7827318766151039,False
+Aspect BACK,DOU,Formula construction,Static sketch construction,28.0,0.39136593830755195,0.1428571428571428,0.0,0.7827318766151039,False
+Aspect FORWARD,TTU,Dynamic sketch construction,Formula construction,19.5,0.5648708373596065,-0.20408163265306123,-4.0,1.0,False
+Aspect FORWARD,TTU,Dynamic sketch construction,Static sketch construction,23.0,0.9015151515151516,-0.061224489795918324,-5.0,1.0,False
+Aspect FORWARD,TTU,Formula construction,Static sketch construction,27.5,0.7491276096399462,0.12244897959183665,-1.0,1.0,False
+Aspect FORWARD,DOU,Dynamic sketch construction,Formula construction,31.5,0.17295491798842066,0.2857142857142858,0.0,0.518864753965262,False
+Aspect FORWARD,DOU,Dynamic sketch construction,Static sketch construction,28.0,0.39136593830755195,0.1428571428571428,0.0,0.7827318766151039,False
+Aspect FORWARD,DOU,Formula construction,Static sketch construction,21.0,0.5937677981615705,-0.1428571428571429,0.0,0.7827318766151039,False
+Aspect ON,TTU,Dynamic sketch construction,Formula construction,18.0,0.45571095571095577,-0.26530612244897955,-2.5,0.45571095571095577,False
+Aspect ON,TTU,Dynamic sketch construction,Static sketch construction,37.5,0.10983183147447209,0.5306122448979591,9.0,0.3294954944234163,False
+Aspect ON,TTU,Formula construction,Static sketch construction,34.5,0.2242892124823661,0.40816326530612246,11.5,0.4485784249647322,False
+Aspect ON,DOU,Dynamic sketch construction,Formula construction,24.5,,0.0,0.0,,False
+Aspect ON,DOU,Dynamic sketch construction,Static sketch construction,28.0,0.39136593830755195,0.1428571428571428,0.0,0.7827318766151039,False
+Aspect ON,DOU,Formula construction,Static sketch construction,28.0,0.39136593830755195,0.1428571428571428,0.0,0.7827318766151039,False
+Aspect OFF,TTU,Dynamic sketch construction,Formula construction,35.0,0.20084086874912765,0.4285714285714286,10.0,0.602522606247383,False
+Aspect OFF,TTU,Dynamic sketch construction,Static sketch construction,19.0,0.5219871128338758,-0.22448979591836737,-7.0,0.6123059013799788,False
+Aspect OFF,TTU,Formula construction,Static sketch construction,16.0,0.3061529506899894,-0.34693877551020413,-17.0,0.6123059013799788,False
+Aspect OFF,DOU,Dynamic sketch construction,Formula construction,28.0,0.39136593830755195,0.1428571428571428,0.0,0.7827318766151039,False
+Aspect OFF,DOU,Dynamic sketch construction,Static sketch construction,24.5,,0.0,0.0,,False
+Aspect OFF,DOU,Formula construction,Static sketch construction,21.0,0.39136593830755195,-0.1428571428571429,0.0,0.7827318766151039,False
+Aspect CROSS,TTU,Dynamic sketch construction,Formula construction,16.5,0.33469680227104925,-0.326530612244898,-1.5,1.0,False
+Aspect CROSS,TTU,Dynamic sketch construction,Static sketch construction,26.0,0.9015151515151516,0.061224489795918435,1.5,1.0,False
+Aspect CROSS,TTU,Formula construction,Static sketch construction,30.0,0.5219871128338758,0.22448979591836737,3.0,1.0,False
+Aspect CROSS,DOU,Dynamic sketch construction,Formula construction,31.5,0.17295491798842066,0.2857142857142858,0.0,0.518864753965262,False
+Aspect CROSS,DOU,Dynamic sketch construction,Static sketch construction,28.0,0.39136593830755195,0.1428571428571428,0.0,0.7827318766151039,False
+Aspect CROSS,DOU,Formula construction,Static sketch construction,20.5,0.5328840277868037,-0.16326530612244894,0.0,0.7827318766151039,False
