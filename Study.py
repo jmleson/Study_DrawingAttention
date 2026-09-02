@@ -137,9 +137,15 @@ tasks = [t1, t2, t3, t4, t5, t6, t7, t8, t9, t10, t11, t12, t13, t14, t15, t16, 
 
 
 
-for p in participants:
-    for t in tasks:
-        p.create_task_files(task=t)
+# for p in participants:
+#     for t in tasks:
+#         # p.create_task_files(task=t)
+#         try:
+#             p.create_task_files_2nd_coding(task=t)
+#         except Exception as e:
+#             print(p.id, t.task_number, e)
+
+
 
 # from HelperFunctions.statistics_category import statistics_category
 # from HelperFunctions.display_category import display_category

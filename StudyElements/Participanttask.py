@@ -17,12 +17,15 @@ class ParticipantTask(Task):
         self.id = f"{self.p_id}-{self.task_number}"
 
         self.raw_data = {}
+        self.secondCoder_raw_data = {}
 
 
     def parse_time_data(self, value:str):
         if " "in value:
             value = value.split(" ")[-1]
 
+        if value is None or value == "None":
+            return
         minutes, seconds, milliseconds = value.split(":")
         if milliseconds != "00":
            raise Exception("milliseconds or whatever")
@@ -84,6 +87,67 @@ class ParticipantTask(Task):
             if "skipped" in self.notes.lower():
                 print(self.notes, "skipped")
                 self.skipped = True
+            # if self.notes in [
+            #                  'Participant was not getting it so I told him that where the green box is, the formula/answer goes',
+            #                  'Did not understand through, thought is was apart of the excel formula',
+            #                  'Buggy question. Question misunderstood, said you find the unit price and show it if you have more than five in stock',
+            #                  'Participant did not understand', 'Participant did not understand. Before question 15 was fixed.',
+            #                  'Gave him a hint for the if statement, if -> then -> else, still did not fully get it. Ended up explaining it.',
+            # ]:
+            #     self.skipped = True
+
+        return
+
+
+    def set_raw_data_secondCoder(self, secondCoder_raw_data:dict):
+        if len(self.secondCoder_raw_data) > 0:
+            return
+        self.secondCoder_raw_data = secondCoder_raw_data
+
+        #TODO separat abspeichern:
+        self.secondCoder_start = self.parse_time_data(self.secondCoder_raw_data["start (of new slide)"])
+        if self.secondCoder_start is None:
+            return
+        self.secondCoder_understanding = self.parse_time_data(value=self.secondCoder_raw_data["timestamp where participant realizes"])
+        if self.secondCoder_understanding is None:
+            return
+
+        secondCoder_start_dt = datetime.combine(datetime.today(), self.secondCoder_start)
+        secondCoder_understanding_dt = datetime.combine(datetime.today(), self.secondCoder_understanding)
+        if secondCoder_understanding_dt < secondCoder_start_dt:# ggf. Datumswechsel berücksichtigen
+            secondCoder_understanding_dt += timedelta(hours=1)
+        secondCoder_time_diff = secondCoder_understanding_dt - secondCoder_start_dt
+        self.secondCoder_time_to_understand = secondCoder_time_diff.total_seconds()
+
+        self.secondCoder_understood_result_cell = secondCoder_raw_data["Result Cell understood (1 / 0)"]
+        self.secondCoder_understood_result_type = secondCoder_raw_data["Result Type understood (1.0/0.5/0)"]
+        self.secondCoder_understood_operation = secondCoder_raw_data["each operation understood (1 point for each)"]
+        self.secondCoder_understood_operand = secondCoder_raw_data["each expected operand understood (1 point for each)"]
+
+        self.secondCoder_total = [
+            value if value != "x" and value is not None else 0
+            for value in (
+                *self.secondCoder_understood_operand.values(),
+                *self.secondCoder_understood_operation.values(),
+                *self.secondCoder_understood_result_type.values(),
+                *self.secondCoder_understood_result_cell.values()
+            )
+        ]
+        self.secondCoder_total = sum(self.secondCoder_total)
+        self.secondCoder_degree_of_understanding = self.secondCoder_total / self.task_max_total
+
+        self.secondCoder_notes = self.secondCoder_raw_data["notes"]
+        self.secondCoder_skipped = False
+
+        if not self.secondCoder_time_to_understand >= 0:
+            self.secondCoder_skipped = True
+            print("VERY STRANGE BEHAVIOR", self.p_id, self.task_id, "negative time")
+            print("TTU:", self.secondCoder_time_to_understand, "=", self.secondCoder_understanding, "-", self.start)
+            self.secondCoder_time_to_understand = None
+        if len(self.secondCoder_notes) > 0 and self.secondCoder_notes != "None":
+            if "skipped" in self.secondCoder_notes.lower():
+                print(self.notes, "skipped")
+                self.secondCoder_skipped = True
             # if self.notes in [
             #                  'Participant was not getting it so I told him that where the green box is, the formula/answer goes',
             #                  'Did not understand through, thought is was apart of the excel formula',

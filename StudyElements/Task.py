@@ -25,6 +25,7 @@ class Task(object):
         self.task_max_total = max_total
 
 
+
     def get_excel_line(self):
         return 2 + int(self.task_number)
 
