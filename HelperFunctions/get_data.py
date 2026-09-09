@@ -29,10 +29,12 @@ def get_data(task_ids: list[int], participants: list[Participant]):
                 try:
                     info["TTU_second_coder"] = task.secondCoder_time_to_understand
                     info["DOU_second_coder"] = task.secondCoder_degree_of_understanding
+                    info["timestamp_where_participant_realizes_second_coder"] = task.secondCoder_understanding
                 except Exception as e:
                     print(e)
                     info["TTU_second_coder"] = None
                     info["DOU_second_coder"] = None
+                    info["timestamp_where_participant_realizes_second_coder"] = None
 
                 data.append(info)
             else:

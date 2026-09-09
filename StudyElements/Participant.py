@@ -89,6 +89,12 @@ class Participant(object):
         return
 
 
+    def get_demographic_data(self):
+        filename = self.get_demographics_filename()
+        with open(filename, "r", encoding="utf-8") as f:
+            raw_data = json.load(f)
+            return raw_data
+
     def create_task_files_2nd_coding(self, task:Task):
 
         p_task = None
