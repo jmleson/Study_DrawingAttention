@@ -47,7 +47,8 @@ t2.add_structural_aspects([STRUCTURALTASKASPECT.COMP, STRUCTURALTASKASPECT.iRANG
 t3 = Task(3, description="Calculate the Gross Subtotal by adding 15% tax to the Net Subtotal.", formula="",
           expected_result_cell="F15",video_length_in_s=14,
           result_type=RESULTTYPE.VALUE, max_total=5)
-t3.add_structural_aspects([STRUCTURALTASKASPECT.COMP, STRUCTURALTASKASPECT.CELL, STRUCTURALTASKASPECT.iLIT, STRUCTURALTASKASPECT.VAL, STRUCTURALTASKASPECT.BACK, STRUCTURALTASKASPECT.ON])
+t3.add_structural_aspects([STRUCTURALTASKASPECT.COMP, STRUCTURALTASKASPECT.CELL, STRUCTURALTASKASPECT.iLIT,
+                           STRUCTURALTASKASPECT.VAL, STRUCTURALTASKASPECT.BACK, STRUCTURALTASKASPECT.ON])
 
 t4 = Task(4, description="Calculate the Quantity of Orange Juice.", formula="",
           expected_result_cell="A9",video_length_in_s=12,
@@ -57,13 +58,13 @@ t4.add_structural_aspects([STRUCTURALTASKASPECT.COMP, STRUCTURALTASKASPECT.CELL,
 t5 = Task(5, description="Identify the maximum of all Discounts, and display it in cell J4.", formula="",
           expected_result_cell="J4",video_length_in_s=13,
           result_type=RESULTTYPE.VALUE, max_total=4)
-t5.add_structural_aspects([STRUCTURALTASKASPECT.COMP, STRUCTURALTASKASPECT.RANGE, STRUCTURALTASKASPECT.iFUNC,
+t5.add_structural_aspects([STRUCTURALTASKASPECT.RANGE, STRUCTURALTASKASPECT.iFUNC,
                            STRUCTURALTASKASPECT.VAL, STRUCTURALTASKASPECT.BACK, STRUCTURALTASKASPECT.ON])
 
 t6 = Task(6, description="Calculate the average of all Item Prices, round the result to the nearest whole task_number, and display it in cell J5.", formula="",
           expected_result_cell="J5",video_length_in_s=12,
           result_type=RESULTTYPE.VALUE, max_total=5)
-t6.add_structural_aspects([STRUCTURALTASKASPECT.COMP, STRUCTURALTASKASPECT.RANGE, STRUCTURALTASKASPECT.FUNC,
+t6.add_structural_aspects([ STRUCTURALTASKASPECT.RANGE, STRUCTURALTASKASPECT.FUNC,
                            STRUCTURALTASKASPECT.VAL, STRUCTURALTASKASPECT.BACK, STRUCTURALTASKASPECT.ON])
 
 t7 = Task(7, description="Calculate the Packaging Fee by multiplying the Delivery Fee with the maximum of all Quantities and the average of all Discounts, and rounding the result to the nearest whole task_number.", formula="",
@@ -75,61 +76,63 @@ t7.add_structural_aspects([STRUCTURALTASKASPECT.COMP, STRUCTURALTASKASPECT.RANGE
 t8 = Task(8, description="Assuming there is a 'get one free' deal for Chocolate, calculate its Total Price.", formula="",
           expected_result_cell="F10",video_length_in_s=14,
           result_type=RESULTTYPE.VALUE, max_total=7)
-t8.add_structural_aspects([STRUCTURALTASKASPECT.COMP, STRUCTURALTASKASPECT.RANGE, STRUCTURALTASKASPECT.LIT,
+t8.add_structural_aspects([STRUCTURALTASKASPECT.COMP, STRUCTURALTASKASPECT.CELL, STRUCTURALTASKASPECT.LIT,
                            STRUCTURALTASKASPECT.VAL, STRUCTURALTASKASPECT.BACK, STRUCTURALTASKASPECT.ON])
 
 t9 = Task(9, description="Calculate the Total Price for each individual item by multiplying its Quantity and Item Price and applying the Discount.", formula="",
           expected_result_cell="F4:F12",video_length_in_s=30,
           result_type=RESULTTYPE.LIST, max_total=7)
-t9.add_structural_aspects([STRUCTURALTASKASPECT.COMP, STRUCTURALTASKASPECT.RANGE, STRUCTURALTASKASPECT.iBATCH,
+t9.add_structural_aspects([STRUCTURALTASKASPECT.COMP, STRUCTURALTASKASPECT.CELL, STRUCTURALTASKASPECT.iBATCH,
                            STRUCTURALTASKASPECT.BACK, STRUCTURALTASKASPECT.ON])
 
 t10 = Task(10, description="Set the Delivery Fee to 10 € if the Gross Subtotal is less than 100 €, or 20 € otherwise.", formula="",
           expected_result_cell="F17",video_length_in_s=20,
           result_type=RESULTTYPE.VALUE, max_total=8)
 t10.add_structural_aspects([STRUCTURALTASKASPECT.iCOND, STRUCTURALTASKASPECT.CELL, STRUCTURALTASKASPECT.LIT,
-                           STRUCTURALTASKASPECT.FUNC, STRUCTURALTASKASPECT.VAL, STRUCTURALTASKASPECT.BACK, STRUCTURALTASKASPECT.ON])
+                           STRUCTURALTASKASPECT.VAL, STRUCTURALTASKASPECT.BACK, STRUCTURALTASKASPECT.ON])
 
 t11 = Task(11, description="Calculate the Invoice Amount by subtracting the Customer Credit from the Grand Total.", formula="",
           expected_result_cell="F26",video_length_in_s=20,
           result_type=RESULTTYPE.VALUE, max_total=5)
 t11.add_structural_aspects([STRUCTURALTASKASPECT.COMP, STRUCTURALTASKASPECT.CELL, STRUCTURALTASKASPECT.VAL,
-                           STRUCTURALTASKASPECT.BACK, STRUCTURALTASKASPECT.ON, STRUCTURALTASKASPECT.iOFF])
+                           STRUCTURALTASKASPECT.BACK, STRUCTURALTASKASPECT.iOFF])
 
 t12 = Task(12, description="Calculate the Express Fee (in the Invoice) by multiplying the Gross Subtotal with the Express Rate (in the Inventory).", formula="",
           expected_result_cell="F18",video_length_in_s=18,
           result_type=RESULTTYPE.VALUE, max_total=5)
 t12.add_structural_aspects([STRUCTURALTASKASPECT.COMP, STRUCTURALTASKASPECT.CELL, STRUCTURALTASKASPECT.VAL,
-                           STRUCTURALTASKASPECT.BACK, STRUCTURALTASKASPECT.FORWARD, STRUCTURALTASKASPECT.ON, STRUCTURALTASKASPECT.iCROSS])
+                           STRUCTURALTASKASPECT.BACK, STRUCTURALTASKASPECT.FORWARD, STRUCTURALTASKASPECT.iCROSS])
 
 t13 = Task(13, description="Calculate the Invoice Amount by subtracting the Customer Credit and the Holiday Discount (in the Inventory) from the Grand Total.", formula="",
           expected_result_cell="F26",video_length_in_s=29,
           result_type=RESULTTYPE.VALUE, max_total=6)
 t13.add_structural_aspects([STRUCTURALTASKASPECT.COMP, STRUCTURALTASKASPECT.CELL, STRUCTURALTASKASPECT.VAL,
-                           STRUCTURALTASKASPECT.BACK, STRUCTURALTASKASPECT.FORWARD, STRUCTURALTASKASPECT.iON, STRUCTURALTASKASPECT.iOFF, STRUCTURALTASKASPECT.iCROSS])
+                           STRUCTURALTASKASPECT.BACK, STRUCTURALTASKASPECT.FORWARD,
+                            STRUCTURALTASKASPECT.OFF, STRUCTURALTASKASPECT.CROSS])
 
 t14 = Task(14, description="Determine the Item Price of Wine (in the Invoice) by using its Item No. to look up its Unit Price in the Inventory?", formula="",
           expected_result_cell="D6",video_length_in_s=22,
           result_type=RESULTTYPE.VALUE, max_total=5)
-t14.add_structural_aspects([STRUCTURALTASKASPECT.iLOOK, STRUCTURALTASKASPECT.CELL, STRUCTURALTASKASPECT.RANGE,
+t14.add_structural_aspects([STRUCTURALTASKASPECT.iLOOK, STRUCTURALTASKASPECT.CELL,
                            STRUCTURALTASKASPECT.VAL, STRUCTURALTASKASPECT.FORWARD, STRUCTURALTASKASPECT.CROSS])
 
 t15 = Task(15, description="Calculate the Item Price of Laundry Detergent (in the Invoice) by adding the Low Stock Surcharge (in the Inventory) to its Unit Price if its Stock is lower than 5.", formula="",
           expected_result_cell="D12",video_length_in_s=53,
           result_type=RESULTTYPE.VALUE, max_total=11)
-t15.add_structural_aspects([STRUCTURALTASKASPECT.iCOMP, STRUCTURALTASKASPECT.iCOND, STRUCTURALTASKASPECT.iLOOK,
-                           STRUCTURALTASKASPECT.iCELL, STRUCTURALTASKASPECT.iLIT, STRUCTURALTASKASPECT.iFUNC, STRUCTURALTASKASPECT.iVAL, STRUCTURALTASKASPECT.iFORWARD, STRUCTURALTASKASPECT.iOFF])
+t15.add_structural_aspects([STRUCTURALTASKASPECT.COMP, STRUCTURALTASKASPECT.COND, STRUCTURALTASKASPECT.LOOK,
+                           STRUCTURALTASKASPECT.CELL, STRUCTURALTASKASPECT.LIT, STRUCTURALTASKASPECT.FUNC,
+                            STRUCTURALTASKASPECT.VAL, STRUCTURALTASKASPECT.FORWARD, STRUCTURALTASKASPECT.CROSS, STRUCTURALTASKASPECT.ON])
 
 t16 = Task(16, description="List the Item No's of all items whose Stock is lower than 5 next to'Low stock' in the Inventory?", formula="",
           expected_result_cell="Inventory formulars'C7:G7",video_length_in_s=32,
           result_type=RESULTTYPE.LIST, max_total=8)
-t16.add_structural_aspects([STRUCTURALTASKASPECT.COND, STRUCTURALTASKASPECT.LOOK, STRUCTURALTASKASPECT.RANGE,
-                           STRUCTURALTASKASPECT.FUNC, STRUCTURALTASKASPECT.LIST, STRUCTURALTASKASPECT.iFORWARD, STRUCTURALTASKASPECT.ON])
+t16.add_structural_aspects([STRUCTURALTASKASPECT.COND, STRUCTURALTASKASPECT.RANGE, STRUCTURALTASKASPECT.LIT,
+                            STRUCTURALTASKASPECT.iLIST, STRUCTURALTASKASPECT.BACK, STRUCTURALTASKASPECT.ON])
 
 t17 = Task(17, description="List the Item No's of all invoiced items that are not included in the Inventory under 'Unknown items' in the Invoice.", formula="",
           expected_result_cell="H9:H10",video_length_in_s=22,
           result_type=RESULTTYPE.LIST, max_total=7)
-t17.add_structural_aspects([STRUCTURALTASKASPECT.iCOND, STRUCTURALTASKASPECT.RANGE, STRUCTURALTASKASPECT.FUNC,
+t17.add_structural_aspects([STRUCTURALTASKASPECT.iCOND, STRUCTURALTASKASPECT.LOOK, STRUCTURALTASKASPECT.RANGE,
                            STRUCTURALTASKASPECT.LIST, STRUCTURALTASKASPECT.FORWARD, STRUCTURALTASKASPECT.CROSS])
 
 

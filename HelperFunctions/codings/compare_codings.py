@@ -1,5 +1,4 @@
-
-
+from HelperFunctions.time_to_seconds import time_to_seconds
 from Study import participants, tasks
 
 
@@ -8,6 +7,8 @@ def get_both_codings():
     dou = []
     ttu_secondCoder = []
     dou_secondCoder = []
+    realization = []
+    realization_secondCoder = []
 
     id = []
 
@@ -30,12 +31,15 @@ def get_both_codings():
                     task.time_to_understand
                 )
                 dou.append(task.degree_of_understanding)
+                realization.append(time_to_seconds(task.understanding))
 
                 ttu_secondCoder.append( task.secondCoder_time_to_understand)
                 dou_secondCoder.append( task.secondCoder_degree_of_understanding)
+                realization_secondCoder.append( time_to_seconds(task.understanding))
+
             except Exception as e:
                 pass
 
-    return id, ttu, dou, ttu_secondCoder, dou_secondCoder
+    return id, ttu, dou, ttu_secondCoder, dou_secondCoder, realization, realization_secondCoder
 
 

@@ -115,14 +115,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hMMnSDGorVVfGSeYOkvQ" name="LIT">
-    <mxGraphModel dx="1888" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1925" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cZwZ_GfqAVgZ55XbGJBe-1" edge="1" parent="1" source="cZwZ_GfqAVgZ55XbGJBe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="cZwZ_GfqAVgZ55XbGJBe-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cZwZ_GfqAVgZ55XbGJBe-8" connectable="0" parent="cZwZ_GfqAVgZ55XbGJBe-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontStyle=1" value="p = 0.001&lt;div&gt;p&lt;sub&gt;Holm&lt;/sub&gt; = 0.002&lt;/div&gt;" vertex="1">
+        <mxCell id="cZwZ_GfqAVgZ55XbGJBe-8" connectable="0" parent="cZwZ_GfqAVgZ55XbGJBe-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontStyle=1" value="p = 0.0171&lt;div&gt;p&lt;sub&gt;Holm&lt;/sub&gt; = 0.0342&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.1128" y="2" as="geometry">
             <mxPoint x="8" y="-17" as="offset" />
           </mxGeometry>
@@ -130,26 +130,26 @@
         <mxCell id="cZwZ_GfqAVgZ55XbGJBe-2" edge="1" parent="1" source="cZwZ_GfqAVgZ55XbGJBe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="cZwZ_GfqAVgZ55XbGJBe-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mBBDmcNZzvlwRYkrEtSz-1" connectable="0" parent="cZwZ_GfqAVgZ55XbGJBe-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="p = 0.505" vertex="1">
+        <mxCell id="mBBDmcNZzvlwRYkrEtSz-1" connectable="0" parent="cZwZ_GfqAVgZ55XbGJBe-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="p = 0.3651" vertex="1">
           <mxGeometry relative="1" x="-0.4301" y="-2" as="geometry">
-            <mxPoint x="-27" y="2" as="offset" />
+            <mxPoint x="-31" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cZwZ_GfqAVgZ55XbGJBe-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;b&gt;Dynamic sketch construction&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;mean = 0.969&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;median = 1.000&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;compact letter = a&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="cZwZ_GfqAVgZ55XbGJBe-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;b&gt;Dynamic sketch construction&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;mean = 0.945&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;median = 1.000&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;compact letter = b&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="210" x="-210" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="cZwZ_GfqAVgZ55XbGJBe-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;Formula construction&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;mean = 0.910&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;median = 1.000&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;compact letter = ab&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="cZwZ_GfqAVgZ55XbGJBe-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;Formula construction&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;mean = 0.892&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;median = 1.000&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;compact letter = b&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="210" x="-40" y="170" as="geometry" />
         </mxCell>
         <mxCell id="cZwZ_GfqAVgZ55XbGJBe-5" edge="1" parent="1" source="cZwZ_GfqAVgZ55XbGJBe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="cZwZ_GfqAVgZ55XbGJBe-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cZwZ_GfqAVgZ55XbGJBe-9" connectable="0" parent="cZwZ_GfqAVgZ55XbGJBe-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="p = 0.038" vertex="1">
+        <mxCell id="cZwZ_GfqAVgZ55XbGJBe-9" connectable="0" parent="cZwZ_GfqAVgZ55XbGJBe-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontStyle=1" value="p = 0.0001&lt;div&gt;p&lt;sub&gt;Holm&lt;/sub&gt; = 0.0003&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.4647" y="3" as="geometry">
-            <mxPoint x="26" as="offset" />
+            <mxPoint x="43" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cZwZ_GfqAVgZ55XbGJBe-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;Static sketch construction&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;mean = 0.979&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;median = 0.975&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;compact letter = b&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="cZwZ_GfqAVgZ55XbGJBe-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;Static sketch construction&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;mean = 0.851&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;median = 0.875&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;compact letter = a&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="210" x="140" y="50" as="geometry" />
         </mxCell>
       </root>

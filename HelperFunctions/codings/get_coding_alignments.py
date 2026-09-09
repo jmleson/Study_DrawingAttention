@@ -3,6 +3,12 @@ from matplotlib import pyplot as plt
 import pandas as pd
 
 from HelperFunctions.codings.compare_codings import get_both_codings
+import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
+from pathlib import Path
+
+
 
 
 def get_coding_alignment(metric="ttu"):
@@ -13,7 +19,7 @@ def get_coding_alignment(metric="ttu"):
     Parameters:
         metric (str): "ttu" for Time to Understand, "dou" for Degree of Understanding
     """
-    id, ttu, dou, ttu_secondCoder, dou_secondCoder = get_both_codings()
+    id, ttu, dou, ttu_secondCoder, dou_secondCoder, realization, realization_secondCoder = get_both_codings()
 
     # Create DataFrame
     df = pd.DataFrame({
@@ -22,7 +28,9 @@ def get_coding_alignment(metric="ttu"):
         'ttu_coder1': ttu,
         'ttu_coder2': ttu_secondCoder,
         'dou_coder1': dou,
-        'dou_coder2': dou_secondCoder
+        'dou_coder2': dou_secondCoder,
+        "timestamp_where_participant_realizes_coder1": realization,
+        "timestamp_where_participant_realizes_coder2": realization_secondCoder
     })
 
     # Get unique participants and assign colors
@@ -30,7 +38,7 @@ def get_coding_alignment(metric="ttu"):
     colors = px.colors.qualitative.Dark24
 
     # Select data based on metric
-    if metric.lower() not in ["ttu", "dou"]:
+    if metric.lower() not in ["ttu", "dou", "timestamp_where_participant_realizes"]:
         raise ValueError("metric must be 'ttu' or 'dou'")
 
     x_data = df[f'{metric.lower()}_coder1']
@@ -61,8 +69,8 @@ def get_coding_alignment(metric="ttu"):
     ax.plot([min_val, max_val], [min_val, max_val], 'r--', linewidth=1, label='Perfect Agreement')
 
     # Labels and grid
-    ax.set_xlabel(xlabel)
-    ax.set_ylabel(ylabel)
+    ax.set_xlabel(xlabel.replace("_"," "))
+    ax.set_ylabel(ylabel.replace("_"," "))
     ax.grid(True, alpha=0.3)
     ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left', fontsize=9)
 
@@ -78,10 +86,9 @@ def get_coding_alignment(metric="ttu"):
 
 
 
-import pandas as pd
-import plotly.express as px
-import plotly.graph_objects as go
-from pathlib import Path
+
+
+
 
 def get_coding_alignment_plotly(metric: str = "ttu") -> go.Figure:
     """
@@ -209,13 +216,17 @@ def get_coding_alignment_plotly(metric: str = "ttu") -> go.Figure:
 
 
 
+
+
+
+
 if __name__ == '__main__':
     # Plot TTU
-    # get_coding_alignment(metric="ttu")
+    get_coding_alignment(metric="ttu")
+    # get_coding_alignment_plotly(metric="ttu")
 
-    get_coding_alignment_plotly(metric="ttu")
-
+    get_coding_alignment(metric="timestamp_where_participant_realizes")
 
     # Plot DOU
-    # get_coding_alignment(metric="dou")
-    get_coding_alignment_plotly(metric="dou")
+    get_coding_alignment(metric="dou")
+    # get_coding_alignment_plotly(metric="dou")

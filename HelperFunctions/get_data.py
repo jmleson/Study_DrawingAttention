@@ -1,6 +1,8 @@
 import pandas as pd
 
+from HelperFunctions.time_to_seconds import time_to_seconds
 from StudyElements.Participant import Participant
+
 
 
 def get_data(task_ids: list[int], participants: list[Participant]):
@@ -19,7 +21,7 @@ def get_data(task_ids: list[int], participants: list[Participant]):
                     #
                     "structural_aspects": task.structural_aspects,
                     "video_length_in_s": task.video_length_in_s,
-                    "timestamp_where_participant_realizes": task.understanding,
+                    "timestamp_where_participant_realizes": time_to_seconds(task.understanding)
                     # "operation_type": task.get_operation_type(),
                     # "operand_type": task.get_operand_type(),
                     # "result_type": task.get_result_type(),
@@ -29,7 +31,7 @@ def get_data(task_ids: list[int], participants: list[Participant]):
                 try:
                     info["TTU_second_coder"] = task.secondCoder_time_to_understand
                     info["DOU_second_coder"] = task.secondCoder_degree_of_understanding
-                    info["timestamp_where_participant_realizes_second_coder"] = task.secondCoder_understanding
+                    info["timestamp_where_participant_realizes_second_coder"] = time_to_seconds(task.secondCoder_understanding)
                 except Exception as e:
                     print(e)
                     info["TTU_second_coder"] = None
