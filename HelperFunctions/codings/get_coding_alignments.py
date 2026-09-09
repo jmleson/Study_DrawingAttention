@@ -1,5 +1,5 @@
+import plotly.express as px
 from matplotlib import pyplot as plt
-import numpy as np
 import pandas as pd
 
 from HelperFunctions.codings.compare_codings import get_both_codings
@@ -27,7 +27,7 @@ def get_coding_alignment(metric="ttu"):
 
     # Get unique participants and assign colors
     participants = sorted(df['participant'].unique())
-    colors = plt.cm.Set1(np.linspace(0, 1, len(participants)))
+    colors = px.colors.qualitative.Dark24
 
     # Select data based on metric
     if metric.lower() not in ["ttu", "dou"]:
@@ -37,6 +37,9 @@ def get_coding_alignment(metric="ttu"):
     y_data = df[f'{metric.lower()}_coder2']
     xlabel = f"{metric.upper()} (Coder 1)"
     ylabel = f"{metric.upper()} (Coder 2)"
+    if metric.lower() == "ttu":
+        xlabel += " [s]"
+        ylabel += " [s]"
 
     # Create figure
     fig, ax = plt.subplots(figsize=(8, 8))
@@ -44,9 +47,12 @@ def get_coding_alignment(metric="ttu"):
     # Plot each participant with unique color
     for i, part in enumerate(participants):
         data = df[df['participant'] == part]
+        # filter out data:
+        # data = data[data[x_data.name] <= 2000]
+
         ax.scatter(
             data[x_data.name], data[y_data.name],
-            color=colors[i], label=part, alpha=0.7, s=60
+            color=colors[i], label=part, alpha=0.5, s=60
         )
 
     # Perfect agreement line
@@ -60,6 +66,10 @@ def get_coding_alignment(metric="ttu"):
     ax.grid(True, alpha=0.3)
     ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left', fontsize=9)
 
+    if metric == "ttu":
+        ax.set_xlim(0,350)
+        ax.set_ylim(0,350)
+
     plt.tight_layout(rect=[0, 0, 0.95, 1])  # Make room for legend
     plt.savefig(f"{metric.lower()}_coding_alignment.png")
     plt.show()
@@ -72,5 +82,7 @@ if __name__ == '__main__':
     # Plot TTU
     get_coding_alignment(metric="ttu")
 
-    # Plot DOU
-    get_coding_alignment(metric="dou")
+    # get_coding_alignment(metric="video_length_in_s")#TODO
+
+    # # Plot DOU
+    # get_coding_alignment(metric="dou")

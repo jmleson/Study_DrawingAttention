@@ -9,7 +9,7 @@ class ParticipantTask(Task):
         super().__init__(number=task.task_number, max_total=task.task_max_total, description=task.task_description,
                          expected_operands=task.task_expected_operands, expected_result_cell=task.task_expected_result_cell,
                          expected_operations=task.task_expected_operations, result_type=task.task_result_type,
-                         formula=task.task_formula
+                         formula=task.task_formula, video_length_in_s=task.video_length_in_s
                          )
         self.structural_aspects = task.structural_aspects
         self.p_id = p_id

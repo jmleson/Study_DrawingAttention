@@ -100,17 +100,24 @@ class Participant(object):
             return
 
         filename = f"2nd_task_{self.id}_{task.task_number}.json"
+        try_again = False
         ########### USE JSON
         if settings.DATA_INPUT == "JSON":
-            with open(self.get_data_directory()+filename, "r", encoding="utf-8") as f:
-                raw_data = json.load(f)
-                p_task.set_raw_data_secondCoder(raw_data)#, info=f"{self.id}_{task.task_number}")
-                self.add_participant_task(p_task=p_task)
+            try:
+                with open(self.get_data_directory()+filename, "r", encoding="utf-8") as f:
+                    raw_data = json.load(f)
+                    p_task.set_raw_data_secondCoder(raw_data)#, info=f"{self.id}_{task.task_number}")
+
+                    p_task.secondCoder_time_to_understand # INFO: testing whether it was added
+            except Exception as e:
+                try_again = True
+                # self.add_participant_task(p_task=p_task)
             # print(f"✓ Loaded from JSON: {filename}")
-            return
+            if not try_again:
+                return
 
         ########### READ FROM EXCEL FILE #########
-        if settings.DATA_INPUT == "EXCEL":
+        if try_again or settings.DATA_INPUT == "EXCEL":
             output_dir = self.get_data_directory()
             wb = load_workbook("DATA/Data_Study_VJV_Analyzing_Complete.xlsx", data_only=True)
             ws = wb[f"{self.id}({self.studygroup.name})"]
