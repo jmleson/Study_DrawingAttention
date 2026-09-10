@@ -40,6 +40,18 @@ class ParticipantTask(Task):
             print(e)
         return value
 
+    def parse_time_into_seconds(self, value: str):
+        if value is None or value == "None":
+            return None
+        value = value.strip().split(" ")[-1]
+        minutes, seconds, milliseconds = value.split(":")
+        if int(milliseconds) != 0:
+            raise ValueError(f"Expected zero milliseconds, got {milliseconds}")
+        return timedelta(
+            minutes=int(minutes),
+            seconds=int(seconds),
+        )
+
 
 
     def set_raw_data(self, raw_data:dict):
@@ -47,16 +59,25 @@ class ParticipantTask(Task):
             return
         self.raw_data = raw_data
 
+        assert not "1900" in self.raw_data["start (of new slide)"]
+        assert not "1900" in self.raw_data["timestamp where participant realizes"]
+
         #TODO separat abspeichern:
         self.start = self.parse_time_data(self.raw_data["start (of new slide)"])
         self.understanding = self.parse_time_data(value=self.raw_data["timestamp where participant realizes"])
 
-        start_dt = datetime.combine(datetime.today(), self.start)
-        understanding_dt = datetime.combine(datetime.today(), self.understanding)
-        if understanding_dt < start_dt:# ggf. Datumswechsel berücksichtigen
-            understanding_dt += timedelta(hours=1)
-        time_diff = understanding_dt - start_dt
-        self.time_to_understand = time_diff.total_seconds()
+        start_seconds = self.start.minute * 60 + self.start.second
+        understanding_seconds = (
+                self.understanding.minute * 60 + self.understanding.second
+        )
+        self.time_to_understand = understanding_seconds - start_seconds
+        if self.time_to_understand < 0:
+            self.time_to_understand += 3600
+        if self.time_to_understand > 500:
+            print(self.raw_data)
+            print(self.time_to_understand, self.start, self.understanding)
+            print(start_seconds, understanding_seconds)
+        assert self.time_to_understand < 500
 
         self.understood_result_cell = raw_data["Result Cell understood (1 / 0)"]
         self.understood_result_type = raw_data["Result Type understood (1.0/0.5/0)"]

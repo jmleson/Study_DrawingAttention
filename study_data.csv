@@ -1,358 +1,358 @@
 participant;task_id;group;TTU;DOU;structural_aspects;video_length_in_s;timestamp_where_participant_realizes;TTU_second_coder;DOU_second_coder;timestamp_where_participant_realizes_second_coder
-p01;1;Formula construction;17.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;130.0;66.0;1.0;179.0
-p31;1;Formula construction;23.0;0.6;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;45.0;96.0;1.0;117.0
-p34;1;Formula construction;14.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;14.0;18.0;1.0;18.0
-p33;1;Formula construction;28.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;49.0;33.0;1.0;54.0
-p26;1;Formula construction;92.0;0.6;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;128.0;89.0;1.0;125.0
-p21;1;Formula construction;33.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;64.0;36.0;1.0;67.0
-p27;1;Formula construction;21.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;28.0;32.0;1.0;32.0
-p11;1;Static sketch construction;10.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;36.0;10.0;1.0;37.0
-p30;1;Static sketch construction;24.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;48.0;23.0;1.0;44.0
-p28;1;Static sketch construction;28.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;53.0;10.0;1.0;35.0
-p09;1;Static sketch construction;14.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;24.0;6.0;1.0;15.0
-p14;1;Static sketch construction;13.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;35.0;8.0;1.0;30.0
-p15;1;Static sketch construction;60.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;60.0;42.0;1.0;42.0
-p02;1;Static sketch construction;31.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;95.0;21.0;1.0;85.0
-p03;1;Dynamic sketch construction;28.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;221.0;29.0;1.0;221.0
-p05;1;Dynamic sketch construction;32.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;38.0;31.0;1.0;37.0
-p04;1;Dynamic sketch construction;26.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;58.0;32.0;1.0;59.0
-p20;1;Dynamic sketch construction;24.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;56.0;19.0;1.0;49.0
-p07;1;Dynamic sketch construction;24.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;41.0;26.0;1.0;43.0
-p38;1;Dynamic sketch construction;26.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;52.0;25.0;1.0;52.0
-p06;1;Dynamic sketch construction;64.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;98.0;69.0;1.0;98.0
-p01;2;Formula construction;26.0;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;210.0;36.0;1.0;219.0
-p31;2;Formula construction;16.0;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;145.0;25.0;1.0;154.0
-p34;2;Formula construction;15.0;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;38.0;15.0;1.0;37.0
-p33;2;Formula construction;18.0;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;86.0;18.0;1.0;86.0
-p26;2;Formula construction;14.0;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;150.0;20.0;1.0;156.0
-p21;2;Formula construction;27.0;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;97.0;45.0;1.0;115.0
-p27;2;Formula construction;15.0;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;51.0;25.0;1.0;61.0
-p11;2;Static sketch construction;8.0;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;50.0;11.0;1.0;53.0
-p30;2;Static sketch construction;14.0;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;66.0;16.0;1.0;67.0
-p28;2;Static sketch construction;16.0;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;80.0;6.0;1.0;69.0
-p09;2;Static sketch construction;25.0;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;62.0;17.0;1.0;53.0
-p14;2;Static sketch construction;9.0;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;56.0;5.0;1.0;52.0
-p15;2;Static sketch construction;8.0;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;74.0;4.0;1.0;70.0
-p02;2;Static sketch construction;18.0;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;136.0;19.0;1.0;136.0
-p03;2;Dynamic sketch construction;19.0;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;254.0;20.0;1.0;255.0
-p05;2;Dynamic sketch construction;33.0;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;76.0;28.0;1.0;71.0
-p04;2;Dynamic sketch construction;22.0;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;89.0;21.0;1.0;89.0
-p20;2;Dynamic sketch construction;14.0;0.75;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;91.0;15.0;1.0;93.0
-p07;2;Dynamic sketch construction;21.0;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;81.0;21.0;1.0;81.0
-p38;2;Dynamic sketch construction;18.0;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;74.0;29.0;1.0;85.0
-p06;2;Dynamic sketch construction;31.0;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;133.0;32.0;1.0;134.0
-p01;3;Formula construction;64.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;286.0;60.0;1.0;283.0
-p31;3;Formula construction;21.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;183.0;21.0;1.0;183.0
-p34;3;Formula construction;12.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;55.0;20.0;1.0;60.0
-p33;3;Formula construction;10.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;99.0;11.0;1.0;100.0
-p26;3;Formula construction;7.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;175.0;7.0;1.0;175.0
-p21;3;Formula construction;84.0;0.8;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;204.0;71.0;1.0;190.0
-p27;3;Formula construction;27.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;96.0;26.0;1.0;96.0
-p11;3;Static sketch construction;10.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;65.0;9.0;0.8;65.0
-p30;3;Static sketch construction;13.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;88.0;12.0;1.0;87.0
-p28;3;Static sketch construction;18.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;112.0;10.0;1.0;104.0
-p09;3;Static sketch construction;23.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;100.0;13.0;0.8;90.0
-p14;3;Static sketch construction;13.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;79.0;6.0;1.0;72.0
-p15;3;Static sketch construction;21.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;99.0;12.0;1.0;90.0
-p02;3;Static sketch construction;10.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;152.0;9.0;1.0;150.0
-p03;3;Dynamic sketch construction;17.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;284.0;23.0;1.0;290.0
-p05;3;Dynamic sketch construction;23.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;104.0;21.0;1.0;101.0
-p04;3;Dynamic sketch construction;21.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;122.0;20.0;1.0;121.0
-p20;3;Dynamic sketch construction;48.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;173.0;48.0;1.0;173.0
-p07;3;Dynamic sketch construction;27.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;113.0;28.0;1.0;114.0
-p38;3;Dynamic sketch construction;22.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;110.0;23.0;1.0;111.0
-p06;3;Dynamic sketch construction;32.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;169.0;33.0;1.0;171.0
-p01;4;Formula construction;52.0;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;341.0;53.0;1.0;341.0
-p31;4;Formula construction;20.0;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;210.0;4.0;1.0;193.0
-p34;4;Formula construction;40.0;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;103.0;45.0;1.0;107.0
-p33;4;Formula construction;11.0;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;113.0;8.0;1.0;111.0
-p26;4;Formula construction;20.0;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;197.0;19.0;0.8;197.0
-p21;4;Formula construction;35.0;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;239.0;34.0;1.0;238.0
-p27;4;Formula construction;37.0;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;143.0;37.0;1.0;143.0
-p11;4;Static sketch construction;9.0;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;81.0;12.0;1.0;81.0
-p30;4;Static sketch construction;15.0;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;104.0;14.0;1.0;103.0
-p28;4;Static sketch construction;19.0;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;135.0;9.0;1.0;125.0
-p09;4;Static sketch construction;40.0;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;141.0;29.0;1.0;130.0
-p14;4;Static sketch construction;23.0;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;105.0;7.0;1.0;90.0
-p15;4;Static sketch construction;14.0;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;116.0;5.0;1.0;106.0
-p02;4;Static sketch construction;18.0;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;178.0;22.0;1.0;182.0
-p03;4;Dynamic sketch construction;20.0;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;325.0;21.0;1.0;326.0
-p05;4;Dynamic sketch construction;29.0;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;140.0;29.0;1.0;139.0
-p04;4;Dynamic sketch construction;18.0;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;146.0;45.0;1.0;174.0
-p20;4;Dynamic sketch construction;29.0;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;212.0;27.0;1.0;210.0
-p07;4;Dynamic sketch construction;35.0;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;153.0;35.0;1.0;153.0
-p38;4;Dynamic sketch construction;38.0;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;156.0;37.0;1.0;156.0
-p06;4;Dynamic sketch construction;35.0;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;208.0;35.0;1.0;209.0
-p01;5;Formula construction;51.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;394.0;49.0;1.0;392.0
-p31;5;Formula construction;70.0;0.25;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;283.0;71.0;0.0;283.0
-p34;5;Formula construction;21.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;130.0;21.0;1.0;131.0
-p33;5;Formula construction;7.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;123.0;7.0;1.0;123.0
-p26;5;Formula construction;11.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;225.0;10.0;1.0;224.0
-p21;5;Formula construction;47.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;286.0;45.0;1.0;285.0
-p27;5;Formula construction;30.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;177.0;32.0;1.0;178.0
-p11;5;Static sketch construction;9.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;91.0;15.0;0.75;98.0
-p30;5;Static sketch construction;18.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;123.0;17.0;1.0;124.0
-p28;5;Static sketch construction;27.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;177.0;12.0;1.0;162.0
-p09;5;Static sketch construction;9.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;156.0;8.0;1.0;154.0
-p14;5;Static sketch construction;14.0;0.25;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;120.0;13.0;0.625;120.0
-p15;5;Static sketch construction;15.0;0.25;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;133.0;10.0;0.75;128.0
-p02;5;Static sketch construction;46.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;231.0;47.0;1.0;232.0
-p03;5;Dynamic sketch construction;22.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;350.0;22.0;1.0;350.0
-p05;5;Dynamic sketch construction;74.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;222.0;75.0;1.0;223.0
-p04;5;Dynamic sketch construction;23.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;175.0;15.0;1.0;167.0
-p20;5;Dynamic sketch construction;26.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;266.0;21.0;1.0;261.0
-p07;5;Dynamic sketch construction;32.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;206.0;30.0;1.0;205.0
-p38;5;Dynamic sketch construction;25.0;0.75;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;187.0;26.0;1.0;188.0
-p06;5;Dynamic sketch construction;33.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;247.0;34.0;1.0;248.0
-p01;6;Formula construction;64.0;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;459.0;60.0;0.9;455.0
-p31;6;Formula construction;120.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;403.0;122.0;0.8;405.0
-p34;6;Formula construction;37.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;175.0;36.0;1.0;173.0
-p33;6;Formula construction;11.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;137.0;9.0;1.0;135.0
-p26;6;Formula construction;33.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;260.0;31.0;1.0;258.0
-p21;6;Formula construction;36.0;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;325.0;34.0;1.0;322.0
-p27;6;Formula construction;24.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;204.0;25.0;1.0;206.0
-p11;6;Static sketch construction;7.0;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;108.0;7.0;0.8;108.0
-p30;6;Static sketch construction;40.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;167.0;37.0;1.0;164.0
-p28;6;Static sketch construction;9.0;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;190.0;5.0;0.8;186.0
-p09;6;Static sketch construction;63.0;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;221.0;10.0;0.8;169.0
-p14;6;Static sketch construction;18.0;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;138.0;10.0;0.8;130.0
-p15;6;Static sketch construction;36.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;169.0;8.0;1.0;143.0
-p02;6;Static sketch construction;21.0;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;258.0;19.0;0.7;256.0
-p03;6;Dynamic sketch construction;16.0;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;371.0;16.0;0.8;371.0
-p05;6;Dynamic sketch construction;44.0;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;288.0;18.0;1.0;262.0
-p04;6;Dynamic sketch construction;23.0;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;207.0;23.0;0.8;207.0
-p20;6;Dynamic sketch construction;66.0;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;353.0;20.0;0.8;307.0
-p07;6;Dynamic sketch construction;33.0;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;250.0;33.0;0.8;250.0
-p38;6;Dynamic sketch construction;26.0;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;218.0;26.0;0.8;219.0
-p06;6;Dynamic sketch construction;27.0;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;284.0;25.0;0.8;283.0
-p01;7;Formula construction;99.0;0.8888888888888888;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;558.0;96.0;0.8888888888888888;555.0
-p31;7;Formula construction;150.0;0.7777777777777778;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;566.0;151.0;0.7222222222222222;566.0
-p34;7;Formula construction;90.0;0.8888888888888888;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;271.0;68.0;1.0;248.0
-p33;7;Formula construction;23.0;1.0;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;161.0;22.0;1.0;160.0
-p26;7;Formula construction;36.0;1.0;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;297.0;33.0;1.0;294.0
-p21;7;Formula construction;85.0;0.8888888888888888;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;410.0;93.0;0.9444444444444444;418.0
-p27;7;Formula construction;90.0;0.8888888888888888;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;300.0;83.0;1.0;293.0
-p11;7;Static sketch construction;57.0;0.0;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;168.0;57.0;0.2222222222222222;168.0
-p30;7;Static sketch construction;107.0;1.0;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;281.0;107.0;0.8888888888888888;281.0
-p28;7;Static sketch construction;95.0;0.6666666666666666;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;310.0;57.0;0.7777777777777778;272.0
-p09;7;Static sketch construction;162.0;0.8888888888888888;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;413.0;146.0;0.7777777777777778;397.0
-p14;7;Static sketch construction;87.0;0.6666666666666666;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;245.0;64.0;0.6111111111111112;223.0
-p15;7;Static sketch construction;46.0;0.8888888888888888;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;215.0;13.0;0.8888888888888888;183.0
-p02;7;Static sketch construction;77.0;0.0;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;377.0;67.0;0.3333333333333333;367.0
-p03;7;Dynamic sketch construction;40.0;0.7777777777777778;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;467.0;40.0;0.8888888888888888;468.0
-p05;7;Dynamic sketch construction;32.0;0.8888888888888888;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;325.0;37.0;1.0;330.0
-p04;7;Dynamic sketch construction;72.0;0.8888888888888888;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;303.0;71.0;0.8888888888888888;303.0
-p20;7;Dynamic sketch construction;86.0;0.7777777777777778;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;454.0;86.0;0.7777777777777778;454.0
-p07;7;Dynamic sketch construction;67.0;0.8888888888888888;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;339.0;69.0;0.8888888888888888;341.0
-p38;7;Dynamic sketch construction;50.0;0.7777777777777778;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;286.0;51.0;0.7777777777777778;286.0
-p06;7;Dynamic sketch construction;126.0;0.8888888888888888;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;434.0;125.0;0.8888888888888888;433.0
-p01;8;Formula construction;49.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;608.0;49.0;1.0;608.0
-p31;8;Formula construction;25.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;595.0;23.0;0.8571428571428571;594.0
-p34;8;Formula construction;38.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;313.0;34.0;1.0;308.0
-p33;8;Formula construction;13.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;176.0;11.0;1.0;174.0
-p26;8;Formula construction;24.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;323.0;25.0;1.0;323.0
-p21;8;Formula construction;53.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;473.0;51.0;1.0;472.0
-p27;8;Formula construction;41.0;0.42857142857142855;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;343.0;35.0;1.0;338.0
-p11;8;Static sketch construction;14.0;0.7142857142857143;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;182.0;15.0;0.7142857142857143;183.0
-p30;8;Static sketch construction;19.0;0.8571428571428571;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;304.0;19.0;1.0;304.0
-p28;8;Static sketch construction;26.0;0.8571428571428571;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;336.0;30.0;1.0;330.0
-p09;8;Static sketch construction;112.0;0.7142857142857143;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;533.0;97.0;0.7142857142857143;518.0
-p14;8;Static sketch construction;21.0;0.7142857142857143;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;266.0;12.0;0.7142857142857143;255.0
-p15;8;Static sketch construction;34.0;0.8571428571428571;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;251.0;27.0;1.0;244.0
-p02;8;Static sketch construction;58.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;435.0;48.0;0.8571428571428571;425.0
-p03;8;Dynamic sketch construction;39.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;513.0;39.0;1.0;513.0
-p05;8;Dynamic sketch construction;27.0;0.8571428571428571;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;367.0;27.0;1.0;367.0
-p04;8;Dynamic sketch construction;8.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;332.0;23.0;1.0;333.0
-p20;8;Dynamic sketch construction;7.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;488.0;20.0;1.0;489.0
-p07;8;Dynamic sketch construction;30.0;0.8571428571428571;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;377.0;32.0;1.0;379.0
-p38;8;Dynamic sketch construction;49.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;342.0;49.0;1.0;342.0
-p06;8;Dynamic sketch construction;70.0;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;508.0;71.0;1.0;510.0
-p01;9;Formula construction;62.0;0.2857142857142857;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;672.0;57.0;0.9285714285714286;667.0
-p31;9;Formula construction;61.0;0.2857142857142857;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;659.0;60.0;0.5;658.0
-p34;9;Formula construction;83.0;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;401.0;85.0;1.0;401.0
-p33;9;Formula construction;63.0;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;241.0;61.0;1.0;239.0
-p26;9;Formula construction;31.0;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;373.0;38.0;1.0;380.0
-p21;9;Formula construction;46.0;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;522.0;46.0;1.0;521.0
-p27;9;Formula construction;39.0;0.2857142857142857;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;382.0;33.0;0.7857142857142857;377.0
-p11;9;Static sketch construction;21.0;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;206.0;28.0;0.9285714285714286;213.0
-p30;9;Static sketch construction;121.0;0.7142857142857143;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;433.0;115.0;0.42857142857142855;428.0
-p28;9;Static sketch construction;43.0;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;383.0;18.0;0.7857142857142857;358.0
-p09;9;Static sketch construction;21.0;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;557.0;16.0;0.7142857142857143;552.0
-p14;9;Static sketch construction;51.0;0.5714285714285714;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;318.0;17.0;0.7142857142857143;285.0
-p15;9;Static sketch construction;64.0;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;316.0;56.0;1.0;308.0
-p02;9;Static sketch construction;40.0;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;478.0;24.0;0.7142857142857143;463.0
-p03;9;Dynamic sketch construction;45.0;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;564.0;46.0;1.0;565.0
-p05;9;Dynamic sketch construction;37.0;0.5714285714285714;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;411.0;35.0;1.0;409.0
-p04;9;Dynamic sketch construction;54.0;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;408.0;54.0;1.0;408.0
-p20;9;Dynamic sketch construction;34.0;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;575.0;36.0;1.0;578.0
-p07;9;Dynamic sketch construction;58.0;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;453.0;58.0;1.0;453.0
-p38;9;Dynamic sketch construction;66.0;0.8571428571428571;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;419.0;65.0;0.8571428571428571;419.0
-p06;9;Dynamic sketch construction;62.0;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;576.0;76.0;1.0;591.0
-p01;10;Formula construction;76.0;0.5;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;755.0;71.0;0.5;750.0
-p31;10;Formula construction;165.0;0.625;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;830.0;158.0;0.625;820.0
-p34;10;Formula construction;39.0;1.0;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;473.0;41.0;1.0;472.0
-p33;10;Formula construction;17.0;0.875;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;271.0;23.0;1.0;277.0
-p26;10;Formula construction;25.0;1.0;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;417.0;29.0;1.0;421.0
-p21;10;Formula construction;64.0;0.875;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;587.0;62.0;0.9375;586.0
-p27;10;Formula construction;32.0;1.0;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;414.0;31.0;1.0;413.0
-p11;10;Static sketch construction;29.0;1.0;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;246.0;30.0;1.0;246.0
-p30;10;Static sketch construction;13.0;1.0;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;446.0;11.0;1.0;446.0
-p28;10;Static sketch construction;30.0;0.875;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;413.0;20.0;1.0;403.0
-p09;10;Static sketch construction;26.0;0.875;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;597.0;22.0;1.0;593.0
-p14;10;Static sketch construction;122.0;0.75;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;440.0;107.0;0.6875;426.0
-p15;10;Static sketch construction;125.0;0.875;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;445.0;115.0;0.875;434.0
-p02;10;Static sketch construction;88.0;0.375;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;567.0;87.0;0.25;566.0
-p03;10;Dynamic sketch construction;40.0;1.0;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;609.0;40.0;1.0;609.0
-p05;10;Dynamic sketch construction;40.0;0.875;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;458.0;40.0;1.0;457.0
-p04;10;Dynamic sketch construction;40.0;0.875;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;454.0;41.0;1.0;455.0
-p20;10;Dynamic sketch construction;22.0;0.875;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;622.0;31.0;1.0;631.0
-p07;10;Dynamic sketch construction;61.0;1.0;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;518.0;60.0;1.0;518.0
-p38;10;Dynamic sketch construction;43.0;1.0;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;482.0;43.0;1.0;482.0
-p06;10;Dynamic sketch construction;33.0;1.0;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;628.0;33.0;1.0;628.0
-p01;11;Formula construction;26.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;781.0;31.0;1.0;781.0
-p31;11;Formula construction;32.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;862.0;33.0;1.0;863.0
-p34;11;Formula construction;28.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;502.0;22.0;1.0;497.0
-p33;11;Formula construction;9.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;295.0;6.0;1.0;291.0
-p26;11;Formula construction;16.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;441.0;17.0;1.0;441.0
-p21;11;Formula construction;25.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;614.0;23.0;1.0;612.0
-p27;11;Formula construction;110.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;530.0;100.0;1.0;520.0
-p11;11;Static sketch construction;26.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;274.0;27.0;1.0;275.0
-p30;11;Static sketch construction;12.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;462.0;19.0;0.8;468.0
-p28;11;Static sketch construction;26.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;447.0;18.0;1.0;438.0
-p09;11;Static sketch construction;29.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;636.0;20.0;1.0;627.0
-p14;11;Static sketch construction;53.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;493.0;45.0;1.0;485.0
-p15;11;Static sketch construction;45.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;491.0;33.0;1.0;478.0
-p02;11;Static sketch construction;38.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;605.0;28.0;1.0;594.0
-p03;11;Dynamic sketch construction;27.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;640.0;28.0;1.0;641.0
-p05;11;Dynamic sketch construction;45.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;515.0;45.0;1.0;515.0
-p04;11;Dynamic sketch construction;32.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;490.0;33.0;1.0;491.0
-p20;11;Dynamic sketch construction;21.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;681.0;21.0;1.0;681.0
-p07;11;Dynamic sketch construction;36.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;559.0;36.0;1.0;560.0
-p38;11;Dynamic sketch construction;34.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;532.0;33.0;1.0;531.0
-p06;11;Dynamic sketch construction;37.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;669.0;37.0;1.0;669.0
-p01;12;Formula construction;46.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;828.0;55.0;0.8;840.0
-p31;12;Formula construction;91.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;960.0;91.0;1.0;958.0
-p34;12;Formula construction;94.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;597.0;93.0;1.0;596.0
-p33;12;Formula construction;18.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;344.0;10.0;1.0;342.0
-p26;12;Formula construction;74.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;516.0;38.0;1.0;482.0
-p21;12;Formula construction;52.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;671.0;53.0;1.0;670.0
-p27;12;Formula construction;50.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;580.0;49.0;1.0;579.0
-p11;12;Static sketch construction;33.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;313.0;32.0;1.0;310.0
-p30;12;Static sketch construction;44.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;516.0;43.0;1.0;515.0
-p28;12;Static sketch construction;52.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;506.0;40.0;1.0;494.0
-p09;12;Static sketch construction;33.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;671.0;28.0;1.0;666.0
-p14;12;Static sketch construction;25.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;521.0;9.0;1.0;505.0
-p15;12;Static sketch construction;19.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;512.0;7.0;1.0;500.0
-p02;12;Static sketch construction;40.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;647.0;28.0;0.7;635.0
-p03;12;Dynamic sketch construction;27.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;673.0;28.0;1.0;673.0
-p05;12;Dynamic sketch construction;60.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;593.0;59.0;1.0;591.0
-p04;12;Dynamic sketch construction;45.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;540.0;44.0;1.0;539.0
-p20;12;Dynamic sketch construction;28.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;731.0;44.0;1.0;747.0
-p07;12;Dynamic sketch construction;55.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;618.0;46.0;1.0;610.0
-p38;12;Dynamic sketch construction;51.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;586.0;50.0;1.0;586.0
-p06;12;Dynamic sketch construction;68.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;741.0;66.0;1.0;740.0
-p01;13;Formula construction;51.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;893.0;50.0;1.0;892.0
-p31;13;Formula construction;34.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;998.0;32.0;1.0;996.0
-p34;13;Formula construction;35.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;645.0;34.0;1.0;643.0
-p33;13;Formula construction;10.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;360.0;10.0;1.0;360.0
-p26;13;Formula construction;20.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;551.0;65.0;1.0;550.0
-p21;13;Formula construction;38.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;711.0;36.0;1.0;708.0
-p27;13;Formula construction;71.0;0.8333333333333334;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;651.0;68.0;1.0;650.0
-p11;13;Static sketch construction;46.0;0.8333333333333334;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;360.0;38.0;1.0;353.0
-p30;13;Static sketch construction;25.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;546.0;25.0;1.0;545.0
-p28;13;Static sketch construction;22.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;528.0;17.0;1.0;523.0
-p09;13;Static sketch construction;132.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;828.0;145.0;0.8333333333333334;825.0
-p14;13;Static sketch construction;36.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;557.0;25.0;1.0;548.0
-p15;13;Static sketch construction;76.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;590.0;56.0;1.0;570.0
-p02;13;Static sketch construction;52.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;715.0;42.0;1.0;705.0
-p03;13;Dynamic sketch construction;37.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;720.0;37.0;1.0;720.0
-p05;13;Dynamic sketch construction;37.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;637.0;36.0;1.0;635.0
-p04;13;Dynamic sketch construction;44.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;589.0;57.0;1.0;602.0
-p20;13;Dynamic sketch construction;39.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;853.0;43.0;1.0;854.0
-p07;13;Dynamic sketch construction;54.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;674.0;53.0;1.0;674.0
-p38;13;Dynamic sketch construction;47.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;670.0;43.0;1.0;670.0
-p06;13;Dynamic sketch construction;47.0;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;794.0;46.0;1.0;794.0
-p01;14;Formula construction;47.0;0.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;944.0;49.0;0.2;944.0
-p31;14;Formula construction;290.0;0.4;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;1293.0;280.0;1.0;1283.0
-p34;14;Formula construction;54.0;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;699.0;54.0;0.9;699.0
-p33;14;Formula construction;52.0;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;414.0;51.0;1.0;413.0
-p26;14;Formula construction;96.0;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;652.0;98.0;0.4;656.0
-p21;14;Formula construction;111.0;0.6;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;825.0;108.0;0.7;821.0
-p27;14;Formula construction;120.0;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;773.0;118.0;1.0;771.0
-p11;14;Static sketch construction;18.0;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;379.0;18.0;1.0;379.0
-p30;14;Static sketch construction;38.0;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;585.0;35.0;0.8;584.0
-p28;14;Static sketch construction;16.0;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;545.0;13.0;1.0;542.0
-p09;14;Static sketch construction;65.0;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;898.0;52.0;1.0;885.0
-p14;14;Static sketch construction;68.0;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;634.0;60.0;0.8;627.0
-p15;14;Static sketch construction;208.0;0.8;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;801.0;202.0;0.6;795.0
-p02;14;Static sketch construction;58.0;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;786.0;43.0;1.0;771.0
-p03;14;Dynamic sketch construction;38.0;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;763.0;37.0;1.0;763.0
-p05;14;Dynamic sketch construction;53.0;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;703.0;54.0;1.0;704.0
-p04;14;Dynamic sketch construction;56.0;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;665.0;57.0;1.0;666.0
-p20;14;Dynamic sketch construction;26.0;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;912.0;25.0;1.0;912.0
-p07;14;Dynamic sketch construction;50.0;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;727.0;51.0;1.0;728.0
-p38;14;Dynamic sketch construction;47.0;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;728.0;45.0;1.0;727.0
-p06;14;Dynamic sketch construction;47.0;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;845.0;46.0;1.0;844.0
-p01;15;Formula construction;50.0;0.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;994.0;50.0;0.09090909090909091;994.0
-p31;15;Formula construction;92.0;0.09090909090909091;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;1385.0;92.0;0.18181818181818182;1385.0
-p34;15;Formula construction;176.0;0.6363636363636364;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;887.0;151.0;0.8636363636363636;860.0
-p33;15;Formula construction;71.0;0.9090909090909091;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;487.0;52.0;0.9090909090909091;468.0
-p26;15;Formula construction;90.0;0.9090909090909091;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;747.0;90.0;0.6818181818181818;746.0
-p21;15;Formula construction;91.0;0.5454545454545454;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;917.0;78.0;0.5454545454545454;903.0
-p27;15;Formula construction;96.0;0.5454545454545454;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;870.0;93.0;0.9090909090909091;868.0
-p11;15;Static sketch construction;87.0;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;467.0;83.0;0.6818181818181818;465.0
-p30;15;Static sketch construction;41.0;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;629.0;42.0;0.7272727272727273;629.0
-p28;15;Static sketch construction;50.0;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;615.0;22.0;0.8636363636363636;588.0
-p09;15;Static sketch construction;76.0;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;980.0;55.0;0.9090909090909091;965.0
-p14;15;Static sketch construction;74.0;0.5454545454545454;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;710.0;62.0;0.7272727272727273;698.0
-p15;15;Static sketch construction;129.0;0.8181818181818182;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;930.0;79.0;0.6818181818181818;880.0
-p02;15;Static sketch construction;226.0;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;1014.0;212.0;0.8181818181818182;999.0
-p03;15;Dynamic sketch construction;91.0;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;860.0;91.0;1.0;861.0
-p05;15;Dynamic sketch construction;98.0;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;810.0;99.0;1.0;811.0
-p04;15;Dynamic sketch construction;75.0;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;745.0;75.0;1.0;745.0
-p20;15;Dynamic sketch construction;126.0;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;1059.0;150.0;1.0;1083.0
-p07;15;Dynamic sketch construction;101.0;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;833.0;105.0;1.0;837.0
-p38;15;Dynamic sketch construction;94.0;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;825.0;91.0;1.0;823.0
-p06;15;Dynamic sketch construction;99.0;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;949.0;99.0;1.0;949.0
-p01;16;Formula construction;86.0;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;1080.0;90.0;0.625;1084.0
-p31;16;Formula construction;2229.0;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;14.0;2260.0;0.9375;45.0
-p34;16;Formula construction;46.0;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;933.0;45.0;0.8125;932.0
-p33;16;Formula construction;45.0;0.75;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;533.0;51.0;0.8125;538.0
-p26;16;Formula construction;29.0;0.75;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;783.0;48.0;0.8125;802.0
-p21;16;Formula construction;43.0;0.75;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;960.0;37.0;0.625;954.0
-p27;16;Formula construction;71.0;1.0;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;942.0;65.0;0.875;937.0
-p11;16;Static sketch construction;22.0;0.625;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;490.0;21.0;0.5;489.0
-p30;16;Static sketch construction;17.0;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;655.0;33.0;0.6875;671.0
-p28;16;Static sketch construction;32.0;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;648.0;24.0;0.8125;640.0
-p09;16;Static sketch construction;18.0;0.75;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;1044.0;11.0;0.5;1036.0
-p14;16;Static sketch construction;78.0;0.625;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;788.0;52.0;0.625;760.0
-p15;16;Static sketch construction;40.0;0.75;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;970.0;18.0;0.625;945.0
-p02;16;Static sketch construction;58.0;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;1077.0;56.0;0.625;1075.0
-p03;16;Dynamic sketch construction;42.0;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;908.0;43.0;1.0;909.0
-p05;16;Dynamic sketch construction;50.0;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;870.0;51.0;0.75;872.0
-p04;16;Dynamic sketch construction;65.0;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;813.0;64.0;1.125;813.0
-p20;16;Dynamic sketch construction;76.0;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;1161.0;75.0;0.875;1160.0
-p07;16;Dynamic sketch construction;123.0;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;966.0;62.0;0.875;905.0
-p38;16;Dynamic sketch construction;41.0;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;873.0;41.0;1.0;873.0
-p06;16;Dynamic sketch construction;134.0;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;1086.0;140.0;0.875;1093.0
-p01;17;Formula construction;100.0;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;1181.0;91.0;0.8571428571428571;1175.0
-p31;17;Formula construction;245.0;0.8571428571428571;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;289.0;265.0;0.7857142857142857;310.0
-p34;17;Formula construction;34.0;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;972.0;33.0;1.0;969.0
-p33;17;Formula construction;46.0;0.8571428571428571;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;589.0;45.0;0.8571428571428571;588.0
-p26;17;Formula construction;24.0;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;839.0;25.0;0.8571428571428571;840.0
-p21;17;Formula construction;69.0;0.42857142857142855;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;1029.0;66.0;0.6428571428571429;1025.0
-p27;17;Formula construction;28.0;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;973.0;33.0;1.0;977.0
-p11;17;Static sketch construction;39.0;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;538.0;39.0;0.8571428571428571;537.0
-p30;17;Static sketch construction;13.0;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;685.0;13.0;0.8571428571428571;686.0
-p28;17;Static sketch construction;28.0;0.7142857142857143;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;682.0;8.0;0.6428571428571429;663.0
-p09;17;Static sketch construction;92.0;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;1156.0;80.0;0.5714285714285714;1145.0
-p14;17;Static sketch construction;162.0;0.5714285714285714;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;950.0;125.0;0.6428571428571429;912.0
-p15;17;Static sketch construction;94.0;0.8571428571428571;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;1068.0;67.0;0.42857142857142855;1042.0
-p02;17;Static sketch construction;22.0;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;1106.0;6.0;0.8571428571428571;1090.0
-p03;17;Dynamic sketch construction;63.0;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;978.0;63.0;1.0;978.0
-p05;17;Dynamic sketch construction;63.0;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;955.0;59.0;1.0;952.0
-p04;17;Dynamic sketch construction;41.0;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;857.0;39.0;1.0;856.0
-p20;17;Dynamic sketch construction;37.0;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;1201.0;39.0;0.8571428571428571;1202.0
-p07;17;Dynamic sketch construction;70.0;0.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;1041.0;72.0;1.0;1043.0
-p38;17;Dynamic sketch construction;95.0;0.8571428571428571;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;973.0;95.0;0.8571428571428571;974.0
-p06;17;Dynamic sketch construction;48.0;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;1147.0;56.0;0.8571428571428571;1154.0
+p01;1;Formula construction;17;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;130.0;66.0;1.0;179.0
+p31;1;Formula construction;23;0.6;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;45.0;96.0;1.0;117.0
+p34;1;Formula construction;14;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;14.0;18.0;1.0;18.0
+p33;1;Formula construction;28;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;49.0;33.0;1.0;54.0
+p26;1;Formula construction;92;0.6;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;128.0;89.0;1.0;125.0
+p21;1;Formula construction;33;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;64.0;36.0;1.0;67.0
+p27;1;Formula construction;21;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;28.0;32.0;1.0;32.0
+p11;1;Static sketch construction;10;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;36.0;10.0;1.0;37.0
+p30;1;Static sketch construction;24;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;48.0;23.0;1.0;44.0
+p28;1;Static sketch construction;28;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;53.0;10.0;1.0;35.0
+p09;1;Static sketch construction;14;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;24.0;6.0;1.0;15.0
+p14;1;Static sketch construction;13;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;35.0;8.0;1.0;30.0
+p15;1;Static sketch construction;60;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;60.0;42.0;1.0;42.0
+p02;1;Static sketch construction;31;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;95.0;21.0;1.0;85.0
+p03;1;Dynamic sketch construction;28;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;221.0;29.0;1.0;221.0
+p05;1;Dynamic sketch construction;32;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;38.0;31.0;1.0;37.0
+p04;1;Dynamic sketch construction;26;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;58.0;32.0;1.0;59.0
+p20;1;Dynamic sketch construction;24;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;56.0;19.0;1.0;49.0
+p07;1;Dynamic sketch construction;24;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;41.0;26.0;1.0;43.0
+p38;1;Dynamic sketch construction;26;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;52.0;25.0;1.0;52.0
+p06;1;Dynamic sketch construction;64;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'ON'];12;98.0;69.0;1.0;98.0
+p01;2;Formula construction;26;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;210.0;36.0;1.0;219.0
+p31;2;Formula construction;16;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;145.0;25.0;1.0;154.0
+p34;2;Formula construction;15;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;38.0;15.0;1.0;37.0
+p33;2;Formula construction;18;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;86.0;18.0;1.0;86.0
+p26;2;Formula construction;14;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;150.0;20.0;1.0;156.0
+p21;2;Formula construction;27;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;97.0;45.0;1.0;115.0
+p27;2;Formula construction;15;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;51.0;25.0;1.0;61.0
+p11;2;Static sketch construction;8;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;50.0;11.0;1.0;53.0
+p30;2;Static sketch construction;14;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;66.0;16.0;1.0;67.0
+p28;2;Static sketch construction;16;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;80.0;6.0;1.0;69.0
+p09;2;Static sketch construction;25;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;62.0;17.0;1.0;53.0
+p14;2;Static sketch construction;9;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;56.0;5.0;1.0;52.0
+p15;2;Static sketch construction;8;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;74.0;4.0;1.0;70.0
+p02;2;Static sketch construction;18;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;136.0;19.0;1.0;136.0
+p03;2;Dynamic sketch construction;19;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;254.0;20.0;1.0;255.0
+p05;2;Dynamic sketch construction;33;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;76.0;28.0;1.0;71.0
+p04;2;Dynamic sketch construction;22;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;89.0;21.0;1.0;89.0
+p20;2;Dynamic sketch construction;14;0.75;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;91.0;15.0;1.0;93.0
+p07;2;Dynamic sketch construction;21;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;81.0;21.0;1.0;81.0
+p38;2;Dynamic sketch construction;18;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;74.0;29.0;1.0;85.0
+p06;2;Dynamic sketch construction;31;1.0;['COMP', 'RANGE', 'VAL', 'BACK', 'ON'];13;133.0;32.0;1.0;134.0
+p01;3;Formula construction;64;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;286.0;60.0;1.0;283.0
+p31;3;Formula construction;21;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;183.0;21.0;1.0;183.0
+p34;3;Formula construction;12;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;55.0;20.0;1.0;60.0
+p33;3;Formula construction;10;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;99.0;11.0;1.0;100.0
+p26;3;Formula construction;7;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;175.0;7.0;1.0;175.0
+p21;3;Formula construction;84;0.8;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;204.0;71.0;1.0;190.0
+p27;3;Formula construction;27;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;96.0;26.0;1.0;96.0
+p11;3;Static sketch construction;10;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;65.0;9.0;0.8;65.0
+p30;3;Static sketch construction;13;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;88.0;12.0;1.0;87.0
+p28;3;Static sketch construction;18;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;112.0;10.0;1.0;104.0
+p09;3;Static sketch construction;23;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;100.0;13.0;0.8;90.0
+p14;3;Static sketch construction;13;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;79.0;6.0;1.0;72.0
+p15;3;Static sketch construction;21;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;99.0;12.0;1.0;90.0
+p02;3;Static sketch construction;10;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;152.0;9.0;1.0;150.0
+p03;3;Dynamic sketch construction;17;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;284.0;23.0;1.0;290.0
+p05;3;Dynamic sketch construction;23;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;104.0;21.0;1.0;101.0
+p04;3;Dynamic sketch construction;21;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;122.0;20.0;1.0;121.0
+p20;3;Dynamic sketch construction;48;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;173.0;48.0;1.0;173.0
+p07;3;Dynamic sketch construction;27;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;113.0;28.0;1.0;114.0
+p38;3;Dynamic sketch construction;22;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;110.0;23.0;1.0;111.0
+p06;3;Dynamic sketch construction;32;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;169.0;33.0;1.0;171.0
+p01;4;Formula construction;52;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;341.0;53.0;1.0;341.0
+p31;4;Formula construction;20;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;210.0;4.0;1.0;193.0
+p34;4;Formula construction;40;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;103.0;45.0;1.0;107.0
+p33;4;Formula construction;11;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;113.0;8.0;1.0;111.0
+p26;4;Formula construction;20;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;197.0;19.0;0.8;197.0
+p21;4;Formula construction;35;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;239.0;34.0;1.0;238.0
+p27;4;Formula construction;37;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;143.0;37.0;1.0;143.0
+p11;4;Static sketch construction;9;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;81.0;12.0;1.0;81.0
+p30;4;Static sketch construction;15;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;104.0;14.0;1.0;103.0
+p28;4;Static sketch construction;19;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;135.0;9.0;1.0;125.0
+p09;4;Static sketch construction;40;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;141.0;29.0;1.0;130.0
+p14;4;Static sketch construction;23;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;105.0;7.0;1.0;90.0
+p15;4;Static sketch construction;14;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;116.0;5.0;1.0;106.0
+p02;4;Static sketch construction;18;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;178.0;22.0;1.0;182.0
+p03;4;Dynamic sketch construction;20;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;325.0;21.0;1.0;326.0
+p05;4;Dynamic sketch construction;29;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;140.0;29.0;1.0;139.0
+p04;4;Dynamic sketch construction;18;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;146.0;45.0;1.0;174.0
+p20;4;Dynamic sketch construction;29;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;212.0;27.0;1.0;210.0
+p07;4;Dynamic sketch construction;35;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;153.0;35.0;1.0;153.0
+p38;4;Dynamic sketch construction;38;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;156.0;37.0;1.0;156.0
+p06;4;Dynamic sketch construction;35;1.0;['COMP', 'CELL', 'VAL', 'FORWARD', 'ON'];12;208.0;35.0;1.0;209.0
+p01;5;Formula construction;51;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;394.0;49.0;1.0;392.0
+p31;5;Formula construction;70;0.25;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;283.0;71.0;0.0;283.0
+p34;5;Formula construction;21;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;130.0;21.0;1.0;131.0
+p33;5;Formula construction;7;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;123.0;7.0;1.0;123.0
+p26;5;Formula construction;11;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;225.0;10.0;1.0;224.0
+p21;5;Formula construction;47;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;286.0;45.0;1.0;285.0
+p27;5;Formula construction;30;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;177.0;32.0;1.0;178.0
+p11;5;Static sketch construction;9;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;91.0;15.0;0.75;98.0
+p30;5;Static sketch construction;18;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;123.0;17.0;1.0;124.0
+p28;5;Static sketch construction;27;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;177.0;12.0;1.0;162.0
+p09;5;Static sketch construction;9;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;156.0;8.0;1.0;154.0
+p14;5;Static sketch construction;14;0.25;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;120.0;13.0;0.625;120.0
+p15;5;Static sketch construction;15;0.25;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;133.0;10.0;0.75;128.0
+p02;5;Static sketch construction;46;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;231.0;47.0;1.0;232.0
+p03;5;Dynamic sketch construction;22;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;350.0;22.0;1.0;350.0
+p05;5;Dynamic sketch construction;74;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;222.0;75.0;1.0;223.0
+p04;5;Dynamic sketch construction;23;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;175.0;15.0;1.0;167.0
+p20;5;Dynamic sketch construction;26;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;266.0;21.0;1.0;261.0
+p07;5;Dynamic sketch construction;32;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;206.0;30.0;1.0;205.0
+p38;5;Dynamic sketch construction;25;0.75;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;187.0;26.0;1.0;188.0
+p06;5;Dynamic sketch construction;33;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];13;247.0;34.0;1.0;248.0
+p01;6;Formula construction;64;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;459.0;60.0;0.9;455.0
+p31;6;Formula construction;120;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;403.0;122.0;0.8;405.0
+p34;6;Formula construction;37;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;175.0;36.0;1.0;173.0
+p33;6;Formula construction;11;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;137.0;9.0;1.0;135.0
+p26;6;Formula construction;33;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;260.0;31.0;1.0;258.0
+p21;6;Formula construction;36;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;325.0;34.0;1.0;322.0
+p27;6;Formula construction;24;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;204.0;25.0;1.0;206.0
+p11;6;Static sketch construction;7;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;108.0;7.0;0.8;108.0
+p30;6;Static sketch construction;40;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;167.0;37.0;1.0;164.0
+p28;6;Static sketch construction;9;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;190.0;5.0;0.8;186.0
+p09;6;Static sketch construction;63;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;221.0;10.0;0.8;169.0
+p14;6;Static sketch construction;18;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;138.0;10.0;0.8;130.0
+p15;6;Static sketch construction;36;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;169.0;8.0;1.0;143.0
+p02;6;Static sketch construction;21;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;258.0;19.0;0.7;256.0
+p03;6;Dynamic sketch construction;16;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;371.0;16.0;0.8;371.0
+p05;6;Dynamic sketch construction;44;1.0;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;288.0;18.0;1.0;262.0
+p04;6;Dynamic sketch construction;23;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;207.0;23.0;0.8;207.0
+p20;6;Dynamic sketch construction;66;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;353.0;20.0;0.8;307.0
+p07;6;Dynamic sketch construction;33;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;250.0;33.0;0.8;250.0
+p38;6;Dynamic sketch construction;26;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;218.0;26.0;0.8;219.0
+p06;6;Dynamic sketch construction;27;0.8;['RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];12;284.0;25.0;0.8;283.0
+p01;7;Formula construction;99;0.8888888888888888;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;558.0;96.0;0.8888888888888888;555.0
+p31;7;Formula construction;150;0.7777777777777778;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;566.0;151.0;0.7222222222222222;566.0
+p34;7;Formula construction;90;0.8888888888888888;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;271.0;68.0;1.0;248.0
+p33;7;Formula construction;23;1.0;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;161.0;22.0;1.0;160.0
+p26;7;Formula construction;36;1.0;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;297.0;33.0;1.0;294.0
+p21;7;Formula construction;85;0.8888888888888888;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;410.0;93.0;0.9444444444444444;418.0
+p27;7;Formula construction;90;0.8888888888888888;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;300.0;83.0;1.0;293.0
+p11;7;Static sketch construction;57;0.0;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;168.0;57.0;0.2222222222222222;168.0
+p30;7;Static sketch construction;107;1.0;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;281.0;107.0;0.8888888888888888;281.0
+p28;7;Static sketch construction;95;0.6666666666666666;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;310.0;57.0;0.7777777777777778;272.0
+p09;7;Static sketch construction;162;0.8888888888888888;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;413.0;146.0;0.7777777777777778;397.0
+p14;7;Static sketch construction;87;0.6666666666666666;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;245.0;64.0;0.6111111111111112;223.0
+p15;7;Static sketch construction;46;0.8888888888888888;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;215.0;13.0;0.8888888888888888;183.0
+p02;7;Static sketch construction;77;0.0;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;377.0;67.0;0.3333333333333333;367.0
+p03;7;Dynamic sketch construction;40;0.7777777777777778;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;467.0;40.0;0.8888888888888888;468.0
+p05;7;Dynamic sketch construction;32;0.8888888888888888;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;325.0;37.0;1.0;330.0
+p04;7;Dynamic sketch construction;72;0.8888888888888888;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;303.0;71.0;0.8888888888888888;303.0
+p20;7;Dynamic sketch construction;86;0.7777777777777778;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;454.0;86.0;0.7777777777777778;454.0
+p07;7;Dynamic sketch construction;67;0.8888888888888888;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;339.0;69.0;0.8888888888888888;341.0
+p38;7;Dynamic sketch construction;50;0.7777777777777778;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;286.0;51.0;0.7777777777777778;286.0
+p06;7;Dynamic sketch construction;126;0.8888888888888888;['COMP', 'RANGE', 'FUNC', 'VAL', 'BACK', 'ON'];22;434.0;125.0;0.8888888888888888;433.0
+p01;8;Formula construction;49;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;608.0;49.0;1.0;608.0
+p31;8;Formula construction;25;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;595.0;23.0;0.8571428571428571;594.0
+p34;8;Formula construction;38;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;313.0;34.0;1.0;308.0
+p33;8;Formula construction;13;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;176.0;11.0;1.0;174.0
+p26;8;Formula construction;24;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;323.0;25.0;1.0;323.0
+p21;8;Formula construction;53;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;473.0;51.0;1.0;472.0
+p27;8;Formula construction;41;0.42857142857142855;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;343.0;35.0;1.0;338.0
+p11;8;Static sketch construction;14;0.7142857142857143;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;182.0;15.0;0.7142857142857143;183.0
+p30;8;Static sketch construction;19;0.8571428571428571;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;304.0;19.0;1.0;304.0
+p28;8;Static sketch construction;26;0.8571428571428571;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;336.0;30.0;1.0;330.0
+p09;8;Static sketch construction;112;0.7142857142857143;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;533.0;97.0;0.7142857142857143;518.0
+p14;8;Static sketch construction;21;0.7142857142857143;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;266.0;12.0;0.7142857142857143;255.0
+p15;8;Static sketch construction;34;0.8571428571428571;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;251.0;27.0;1.0;244.0
+p02;8;Static sketch construction;58;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;435.0;48.0;0.8571428571428571;425.0
+p03;8;Dynamic sketch construction;39;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;513.0;39.0;1.0;513.0
+p05;8;Dynamic sketch construction;27;0.8571428571428571;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;367.0;27.0;1.0;367.0
+p04;8;Dynamic sketch construction;8;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;332.0;23.0;1.0;333.0
+p20;8;Dynamic sketch construction;7;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;488.0;20.0;1.0;489.0
+p07;8;Dynamic sketch construction;30;0.8571428571428571;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;377.0;32.0;1.0;379.0
+p38;8;Dynamic sketch construction;49;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;342.0;49.0;1.0;342.0
+p06;8;Dynamic sketch construction;70;1.0;['COMP', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];14;508.0;71.0;1.0;510.0
+p01;9;Formula construction;62;0.2857142857142857;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;672.0;57.0;0.9285714285714286;667.0
+p31;9;Formula construction;61;0.2857142857142857;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;659.0;60.0;0.5;658.0
+p34;9;Formula construction;83;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;401.0;85.0;1.0;401.0
+p33;9;Formula construction;63;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;241.0;61.0;1.0;239.0
+p26;9;Formula construction;31;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;373.0;38.0;1.0;380.0
+p21;9;Formula construction;46;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;522.0;46.0;1.0;521.0
+p27;9;Formula construction;39;0.2857142857142857;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;382.0;33.0;0.7857142857142857;377.0
+p11;9;Static sketch construction;21;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;206.0;28.0;0.9285714285714286;213.0
+p30;9;Static sketch construction;121;0.7142857142857143;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;433.0;115.0;0.42857142857142855;428.0
+p28;9;Static sketch construction;43;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;383.0;18.0;0.7857142857142857;358.0
+p09;9;Static sketch construction;21;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;557.0;16.0;0.7142857142857143;552.0
+p14;9;Static sketch construction;51;0.5714285714285714;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;318.0;17.0;0.7142857142857143;285.0
+p15;9;Static sketch construction;64;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;316.0;56.0;1.0;308.0
+p02;9;Static sketch construction;40;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;478.0;24.0;0.7142857142857143;463.0
+p03;9;Dynamic sketch construction;45;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;564.0;46.0;1.0;565.0
+p05;9;Dynamic sketch construction;37;0.5714285714285714;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;411.0;35.0;1.0;409.0
+p04;9;Dynamic sketch construction;54;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;408.0;54.0;1.0;408.0
+p20;9;Dynamic sketch construction;34;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;575.0;36.0;1.0;578.0
+p07;9;Dynamic sketch construction;58;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;453.0;58.0;1.0;453.0
+p38;9;Dynamic sketch construction;66;0.8571428571428571;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;419.0;65.0;0.8571428571428571;419.0
+p06;9;Dynamic sketch construction;62;1.0;['COMP', 'CELL', 'BATCH', 'BACK', 'ON'];30;576.0;76.0;1.0;591.0
+p01;10;Formula construction;76;0.5;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;755.0;71.0;0.5;750.0
+p31;10;Formula construction;165;0.625;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;830.0;158.0;0.625;820.0
+p34;10;Formula construction;39;1.0;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;473.0;41.0;1.0;472.0
+p33;10;Formula construction;17;0.875;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;271.0;23.0;1.0;277.0
+p26;10;Formula construction;25;1.0;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;417.0;29.0;1.0;421.0
+p21;10;Formula construction;64;0.875;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;587.0;62.0;0.9375;586.0
+p27;10;Formula construction;32;1.0;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;414.0;31.0;1.0;413.0
+p11;10;Static sketch construction;29;1.0;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;246.0;30.0;1.0;246.0
+p30;10;Static sketch construction;13;1.0;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;446.0;11.0;1.0;446.0
+p28;10;Static sketch construction;30;0.875;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;413.0;20.0;1.0;403.0
+p09;10;Static sketch construction;26;0.875;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;597.0;22.0;1.0;593.0
+p14;10;Static sketch construction;122;0.75;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;440.0;107.0;0.6875;426.0
+p15;10;Static sketch construction;125;0.875;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;445.0;115.0;0.875;434.0
+p02;10;Static sketch construction;88;0.375;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;567.0;87.0;0.25;566.0
+p03;10;Dynamic sketch construction;40;1.0;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;609.0;40.0;1.0;609.0
+p05;10;Dynamic sketch construction;40;0.875;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;458.0;40.0;1.0;457.0
+p04;10;Dynamic sketch construction;40;0.875;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;454.0;41.0;1.0;455.0
+p20;10;Dynamic sketch construction;22;0.875;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;622.0;31.0;1.0;631.0
+p07;10;Dynamic sketch construction;61;1.0;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;518.0;60.0;1.0;518.0
+p38;10;Dynamic sketch construction;43;1.0;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;482.0;43.0;1.0;482.0
+p06;10;Dynamic sketch construction;33;1.0;['COND', 'CELL', 'LIT', 'VAL', 'BACK', 'ON'];20;628.0;33.0;1.0;628.0
+p01;11;Formula construction;26;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;781.0;31.0;1.0;781.0
+p31;11;Formula construction;32;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;862.0;33.0;1.0;863.0
+p34;11;Formula construction;28;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;502.0;22.0;1.0;497.0
+p33;11;Formula construction;9;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;295.0;6.0;1.0;291.0
+p26;11;Formula construction;16;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;441.0;17.0;1.0;441.0
+p21;11;Formula construction;25;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;614.0;23.0;1.0;612.0
+p27;11;Formula construction;110;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;530.0;100.0;1.0;520.0
+p11;11;Static sketch construction;26;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;274.0;27.0;1.0;275.0
+p30;11;Static sketch construction;12;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;462.0;19.0;0.8;468.0
+p28;11;Static sketch construction;26;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;447.0;18.0;1.0;438.0
+p09;11;Static sketch construction;29;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;636.0;20.0;1.0;627.0
+p14;11;Static sketch construction;53;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;493.0;45.0;1.0;485.0
+p15;11;Static sketch construction;45;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;491.0;33.0;1.0;478.0
+p02;11;Static sketch construction;38;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;605.0;28.0;1.0;594.0
+p03;11;Dynamic sketch construction;27;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;640.0;28.0;1.0;641.0
+p05;11;Dynamic sketch construction;45;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;515.0;45.0;1.0;515.0
+p04;11;Dynamic sketch construction;32;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;490.0;33.0;1.0;491.0
+p20;11;Dynamic sketch construction;21;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;681.0;21.0;1.0;681.0
+p07;11;Dynamic sketch construction;36;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;559.0;36.0;1.0;560.0
+p38;11;Dynamic sketch construction;34;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;532.0;33.0;1.0;531.0
+p06;11;Dynamic sketch construction;37;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'OFF'];20;669.0;37.0;1.0;669.0
+p01;12;Formula construction;46;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;828.0;55.0;0.8;840.0
+p31;12;Formula construction;91;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;960.0;91.0;1.0;958.0
+p34;12;Formula construction;94;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;597.0;93.0;1.0;596.0
+p33;12;Formula construction;18;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;344.0;10.0;1.0;342.0
+p26;12;Formula construction;74;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;516.0;38.0;1.0;482.0
+p21;12;Formula construction;52;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;671.0;53.0;1.0;670.0
+p27;12;Formula construction;50;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;580.0;49.0;1.0;579.0
+p11;12;Static sketch construction;33;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;313.0;32.0;1.0;310.0
+p30;12;Static sketch construction;44;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;516.0;43.0;1.0;515.0
+p28;12;Static sketch construction;52;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;506.0;40.0;1.0;494.0
+p09;12;Static sketch construction;33;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;671.0;28.0;1.0;666.0
+p14;12;Static sketch construction;25;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;521.0;9.0;1.0;505.0
+p15;12;Static sketch construction;19;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;512.0;7.0;1.0;500.0
+p02;12;Static sketch construction;40;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;647.0;28.0;0.7;635.0
+p03;12;Dynamic sketch construction;27;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;673.0;28.0;1.0;673.0
+p05;12;Dynamic sketch construction;60;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;593.0;59.0;1.0;591.0
+p04;12;Dynamic sketch construction;45;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;540.0;44.0;1.0;539.0
+p20;12;Dynamic sketch construction;28;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;731.0;44.0;1.0;747.0
+p07;12;Dynamic sketch construction;55;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;618.0;46.0;1.0;610.0
+p38;12;Dynamic sketch construction;51;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;586.0;50.0;1.0;586.0
+p06;12;Dynamic sketch construction;68;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'CROSS'];18;741.0;66.0;1.0;740.0
+p01;13;Formula construction;51;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;893.0;50.0;1.0;892.0
+p31;13;Formula construction;34;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;998.0;32.0;1.0;996.0
+p34;13;Formula construction;35;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;645.0;34.0;1.0;643.0
+p33;13;Formula construction;10;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;360.0;10.0;1.0;360.0
+p26;13;Formula construction;20;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;551.0;65.0;1.0;550.0
+p21;13;Formula construction;38;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;711.0;36.0;1.0;708.0
+p27;13;Formula construction;71;0.8333333333333334;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;651.0;68.0;1.0;650.0
+p11;13;Static sketch construction;46;0.8333333333333334;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;360.0;38.0;1.0;353.0
+p30;13;Static sketch construction;25;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;546.0;25.0;1.0;545.0
+p28;13;Static sketch construction;22;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;528.0;17.0;1.0;523.0
+p09;13;Static sketch construction;132;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;828.0;145.0;0.8333333333333334;825.0
+p14;13;Static sketch construction;36;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;557.0;25.0;1.0;548.0
+p15;13;Static sketch construction;76;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;590.0;56.0;1.0;570.0
+p02;13;Static sketch construction;52;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;715.0;42.0;1.0;705.0
+p03;13;Dynamic sketch construction;37;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;720.0;37.0;1.0;720.0
+p05;13;Dynamic sketch construction;37;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;637.0;36.0;1.0;635.0
+p04;13;Dynamic sketch construction;44;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;589.0;57.0;1.0;602.0
+p20;13;Dynamic sketch construction;39;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;853.0;43.0;1.0;854.0
+p07;13;Dynamic sketch construction;54;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;674.0;53.0;1.0;674.0
+p38;13;Dynamic sketch construction;47;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;670.0;43.0;1.0;670.0
+p06;13;Dynamic sketch construction;47;1.0;['COMP', 'CELL', 'VAL', 'BACK', 'FORWARD', 'OFF', 'CROSS'];29;794.0;46.0;1.0;794.0
+p01;14;Formula construction;47;0.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;944.0;49.0;0.2;944.0
+p31;14;Formula construction;290;0.4;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;1293.0;280.0;1.0;1283.0
+p34;14;Formula construction;54;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;699.0;54.0;0.9;699.0
+p33;14;Formula construction;52;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;414.0;51.0;1.0;413.0
+p26;14;Formula construction;96;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;652.0;98.0;0.4;656.0
+p21;14;Formula construction;111;0.6;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;825.0;108.0;0.7;821.0
+p27;14;Formula construction;120;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;773.0;118.0;1.0;771.0
+p11;14;Static sketch construction;18;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;379.0;18.0;1.0;379.0
+p30;14;Static sketch construction;38;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;585.0;35.0;0.8;584.0
+p28;14;Static sketch construction;16;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;545.0;13.0;1.0;542.0
+p09;14;Static sketch construction;65;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;898.0;52.0;1.0;885.0
+p14;14;Static sketch construction;68;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;634.0;60.0;0.8;627.0
+p15;14;Static sketch construction;208;0.8;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;801.0;202.0;0.6;795.0
+p02;14;Static sketch construction;58;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;786.0;43.0;1.0;771.0
+p03;14;Dynamic sketch construction;38;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;763.0;37.0;1.0;763.0
+p05;14;Dynamic sketch construction;53;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;703.0;54.0;1.0;704.0
+p04;14;Dynamic sketch construction;56;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;665.0;57.0;1.0;666.0
+p20;14;Dynamic sketch construction;26;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;912.0;25.0;1.0;912.0
+p07;14;Dynamic sketch construction;50;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;727.0;51.0;1.0;728.0
+p38;14;Dynamic sketch construction;47;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;728.0;45.0;1.0;727.0
+p06;14;Dynamic sketch construction;47;1.0;['LOOK', 'CELL', 'VAL', 'FORWARD', 'CROSS'];22;845.0;46.0;1.0;844.0
+p01;15;Formula construction;50;0.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;994.0;50.0;0.09090909090909091;994.0
+p31;15;Formula construction;92;0.09090909090909091;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;1385.0;92.0;0.18181818181818182;1385.0
+p34;15;Formula construction;176;0.6363636363636364;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;887.0;151.0;0.8636363636363636;860.0
+p33;15;Formula construction;71;0.9090909090909091;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;487.0;52.0;0.9090909090909091;468.0
+p26;15;Formula construction;90;0.9090909090909091;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;747.0;90.0;0.6818181818181818;746.0
+p21;15;Formula construction;91;0.5454545454545454;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;917.0;78.0;0.5454545454545454;903.0
+p27;15;Formula construction;96;0.5454545454545454;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;870.0;93.0;0.9090909090909091;868.0
+p11;15;Static sketch construction;87;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;467.0;83.0;0.6818181818181818;465.0
+p30;15;Static sketch construction;41;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;629.0;42.0;0.7272727272727273;629.0
+p28;15;Static sketch construction;50;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;615.0;22.0;0.8636363636363636;588.0
+p09;15;Static sketch construction;76;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;980.0;55.0;0.9090909090909091;965.0
+p14;15;Static sketch construction;74;0.5454545454545454;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;710.0;62.0;0.7272727272727273;698.0
+p15;15;Static sketch construction;129;0.8181818181818182;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;930.0;79.0;0.6818181818181818;880.0
+p02;15;Static sketch construction;226;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;1014.0;212.0;0.8181818181818182;999.0
+p03;15;Dynamic sketch construction;91;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;860.0;91.0;1.0;861.0
+p05;15;Dynamic sketch construction;98;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;810.0;99.0;1.0;811.0
+p04;15;Dynamic sketch construction;75;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;745.0;75.0;1.0;745.0
+p20;15;Dynamic sketch construction;126;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;1059.0;150.0;1.0;1083.0
+p07;15;Dynamic sketch construction;101;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;833.0;105.0;1.0;837.0
+p38;15;Dynamic sketch construction;94;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;825.0;91.0;1.0;823.0
+p06;15;Dynamic sketch construction;99;1.0;['COMP', 'COND', 'LOOK', 'CELL', 'LIT', 'FUNC', 'VAL', 'FORWARD', 'CROSS', 'ON'];53;949.0;99.0;1.0;949.0
+p01;16;Formula construction;86;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;1080.0;90.0;0.625;1084.0
+p31;16;Formula construction;69;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;1454.0;100.0;0.9375;1485.0
+p34;16;Formula construction;46;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;933.0;45.0;0.8125;932.0
+p33;16;Formula construction;45;0.75;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;533.0;51.0;0.8125;538.0
+p26;16;Formula construction;29;0.75;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;783.0;48.0;0.8125;802.0
+p21;16;Formula construction;43;0.75;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;960.0;37.0;0.625;954.0
+p27;16;Formula construction;71;1.0;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;942.0;65.0;0.875;937.0
+p11;16;Static sketch construction;22;0.625;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;490.0;21.0;0.5;489.0
+p30;16;Static sketch construction;17;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;655.0;33.0;0.6875;671.0
+p28;16;Static sketch construction;32;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;648.0;24.0;0.8125;640.0
+p09;16;Static sketch construction;18;0.75;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;1044.0;11.0;0.5;1036.0
+p14;16;Static sketch construction;78;0.625;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;788.0;52.0;0.625;760.0
+p15;16;Static sketch construction;40;0.75;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;970.0;18.0;0.625;945.0
+p02;16;Static sketch construction;58;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;1077.0;56.0;0.625;1075.0
+p03;16;Dynamic sketch construction;42;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;908.0;43.0;1.0;909.0
+p05;16;Dynamic sketch construction;50;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;870.0;51.0;0.75;872.0
+p04;16;Dynamic sketch construction;65;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;813.0;64.0;1.125;813.0
+p20;16;Dynamic sketch construction;76;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;1161.0;75.0;0.875;1160.0
+p07;16;Dynamic sketch construction;123;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;966.0;62.0;0.875;905.0
+p38;16;Dynamic sketch construction;41;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;873.0;41.0;1.0;873.0
+p06;16;Dynamic sketch construction;134;0.875;['COND', 'RANGE', 'LIT', 'LIST', 'BACK', 'ON'];32;1086.0;140.0;0.875;1093.0
+p01;17;Formula construction;100;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;1181.0;91.0;0.8571428571428571;1175.0
+p31;17;Formula construction;245;0.8571428571428571;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;1729.0;265.0;0.7857142857142857;1750.0
+p34;17;Formula construction;34;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;972.0;33.0;1.0;969.0
+p33;17;Formula construction;46;0.8571428571428571;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;589.0;45.0;0.8571428571428571;588.0
+p26;17;Formula construction;24;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;839.0;25.0;0.8571428571428571;840.0
+p21;17;Formula construction;69;0.42857142857142855;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;1029.0;66.0;0.6428571428571429;1025.0
+p27;17;Formula construction;28;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;973.0;33.0;1.0;977.0
+p11;17;Static sketch construction;39;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;538.0;39.0;0.8571428571428571;537.0
+p30;17;Static sketch construction;13;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;685.0;13.0;0.8571428571428571;686.0
+p28;17;Static sketch construction;28;0.7142857142857143;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;682.0;8.0;0.6428571428571429;663.0
+p09;17;Static sketch construction;92;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;1156.0;80.0;0.5714285714285714;1145.0
+p14;17;Static sketch construction;162;0.5714285714285714;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;950.0;125.0;0.6428571428571429;912.0
+p15;17;Static sketch construction;94;0.8571428571428571;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;1068.0;67.0;0.42857142857142855;1042.0
+p02;17;Static sketch construction;22;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;1106.0;6.0;0.8571428571428571;1090.0
+p03;17;Dynamic sketch construction;63;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;978.0;63.0;1.0;978.0
+p05;17;Dynamic sketch construction;63;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;955.0;59.0;1.0;952.0
+p04;17;Dynamic sketch construction;41;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;857.0;39.0;1.0;856.0
+p20;17;Dynamic sketch construction;37;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;1201.0;39.0;0.8571428571428571;1202.0
+p07;17;Dynamic sketch construction;70;0.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;1041.0;72.0;1.0;1043.0
+p38;17;Dynamic sketch construction;95;0.8571428571428571;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;973.0;95.0;0.8571428571428571;974.0
+p06;17;Dynamic sketch construction;48;1.0;['COND', 'LOOK', 'RANGE', 'LIST', 'FORWARD', 'CROSS'];22;1147.0;56.0;0.8571428571428571;1154.0

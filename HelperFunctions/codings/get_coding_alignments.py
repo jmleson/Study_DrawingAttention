@@ -74,9 +74,9 @@ def get_coding_alignment(metric="ttu"):
     ax.grid(True, alpha=0.3)
     ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left', fontsize=9)
 
-    if metric == "ttu":
-        ax.set_xlim(0,350)
-        ax.set_ylim(0,350)
+    # if metric == "ttu":
+    #     ax.set_xlim(0,350)
+    #     ax.set_ylim(0,350)
 
     plt.tight_layout(rect=[0, 0, 0.95, 1])  # Make room for legend
     plt.savefig(f"{metric.lower()}_coding_alignment.png")

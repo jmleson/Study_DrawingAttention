@@ -12,6 +12,7 @@ def get_data(task_ids: list[int], participants: list[Participant]):
             task = p.get_participant_task(task_id=task_id)
             if task is not None:
                 assert task.video_length_in_s is not None
+                assert task.time_to_understand < 500
                 info = {
                     "participant": p.id,
                     "task_id": f"{task.task_number}",

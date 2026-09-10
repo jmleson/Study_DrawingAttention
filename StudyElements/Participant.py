@@ -36,6 +36,8 @@ class Participant(object):
                 p_task = ParticipantTask(p_id=self.id, task=task)
                 p_task.set_raw_data(raw_data)#, info=f"{self.id}_{task.task_number}")
                 self.add_participant_task(p_task=p_task)
+
+
             # print(f"✓ Loaded from JSON: {filename}")
             return
 
@@ -75,6 +77,13 @@ class Participant(object):
                 template["timestamp where participant realizes"] = str(ws[f"T{task_line}"].value)
                 template["end of this slide"] = str(ws[f"U{task_line}"].value)
                 template["notes"] = str(ws[f"V{task_line}"].value)
+
+            for time_key in ["start (of new slide)", "timestamp where participant realizes"]:
+                if "1900" in template[time_key]:
+                    print(template[time_key])
+                    raise Exception("wrong data format", self.id, task.task_number)
+                assert not "1900" in template[time_key]
+
 
             os.makedirs(output_dir, exist_ok=True)
             filepath = os.path.join(output_dir, filename)

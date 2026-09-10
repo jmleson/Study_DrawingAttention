@@ -30,7 +30,8 @@ p06 = Participant(id="p06", studygroup=STUDYGROUP.V)
 
 participants = [p01, p31, p34, p33, p26, p21, p27,
                 p11, p30, p28, p09, p14, p15, p02,
-                p03, p05, p04, p20, p07, p38, p06]
+                p03, p05, p04, p20, p07, p38, p06
+                ]
 
 
 
